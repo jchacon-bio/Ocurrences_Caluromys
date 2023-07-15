@@ -1,6 +1,6 @@
 **README**
 
-Supplementary material article: 
+Supplementary material of the article:
 
 **New potential distribution of woolly opossum, genus Caluromys (Didelphimorphia: Didelphidae), en Colombia**
 
