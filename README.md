@@ -4,7 +4,7 @@ This is your README. READMEs are where you can communicate what your project is 
 
 Write your name on line 6, save it, and then head back to GitHub Desktop.
 
-**New potential distribution of woolly opossum, genus Caluromys (Didelphimorphia: Didelphidae), en Colombia**
+Supplementary material article: **New potential distribution of woolly opossum, genus Caluromys (Didelphimorphia: Didelphidae), en Colombia**
 
 Julio Chacón-Pacheco1,2*, Jairo Pérez-Torres2, Javier Racero-Casarrubia1, Luis Camilo Ramos Madera1, Duván J. Bassa-Hernández1, and Gerson Salcedo-Rivera3 
 
