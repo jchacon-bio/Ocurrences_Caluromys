@@ -1,10 +1,8 @@
-# Welcome to GitHub Desktop!
+**README**
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Supplementary material article: 
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-
-Supplementary material article: **New potential distribution of woolly opossum, genus Caluromys (Didelphimorphia: Didelphidae), en Colombia**
+**New potential distribution of woolly opossum, genus Caluromys (Didelphimorphia: Didelphidae), en Colombia**
 
 Julio Chacón-Pacheco1,2*, Jairo Pérez-Torres2, Javier Racero-Casarrubia1, Luis Camilo Ramos Madera1, Duván J. Bassa-Hernández1, and Gerson Salcedo-Rivera3 
 
