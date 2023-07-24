@@ -1,0 +1,732 @@
+Basis of record,Data origin,Institution,Catalogue number,Scientific name,Latitude,Longitude,Country,Department/State/Province,Municipality,Site,Observation,References
+PRESERVED_SPECIMEN,Literature,Estación Biológica de Rancho Grande,EBRG 2166,"Caluromys philander (Linnaeus, 1758)",1.85,-67.05,Venezuela,Amazonas,San Carlos de Río Negro Río Negro,Caño Ardabo,,López Fuster et al. 2008
+MACHINE_OBSERVATION,Database,Fundación Puerto Rastrojo - Colômbia,FPR-COLOMBIA 63750,"Caluromys philander (Linnaeus, 1758)",1.916666667,-67.06666667,Venezuela,Amazonas,Rio Negro,Caño Ardabo San Carlos,,speciesLink (http://www.splink.org.br)
+HUMAN_OBSERVATION,Database,"Consejo comunitario de Cupica Rio, Selva y Mar Cupica",Fuana:0687,"Caluromys derbianus (Waterhouse, 1841)",6.71801,-77.48964,Colombia,Chocó,Juradó,Cupica,,GBIF.org
+PRESERVED_SPECIMEN,Database,Universidad Tecnológica de Chocó,UTCH:CMCH:000020,"Caluromys derbianus (Waterhouse, 1841)",5.667778,-76.57,Colombia,Chocó,Quibdó,Pacurita (Cabí),,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de La Salle,"LaSalle:MLS-mam:218, 1075-1076","Caluromys derbianus (Waterhouse, 1841)",5.789748,-75.785499,Colombia,Antioquia,Jericó,Jericó,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de La Salle,LaSalle:MLS-mam:219,"Caluromys derbianus (Waterhouse, 1841)",6.439227,-75.331644,Colombia,Antioquia,Barbosa,Barbosa,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de Historia Natural de la Universidad del Cauca,MHNUCA:Mammal:1801,"Caluromys derbianus (Waterhouse, 1841)",5.054444,-75.471944,Colombia,Caldas,Manizales,Reserva Natural Río Blanco,,GBIF.org
+HUMAN_OBSERVATION,Database,Corporación para la Gestión Ambiental Biodiversa,BIODIVERSA-ACODAL:2014-MM-030,"Caluromys derbianus (Waterhouse, 1841)",4.890375,-76.036314,Colombia,Valle del Cauca,El Águila,"Corregimiento Quebrada Grande-La María, Zona rural municipio El Águila, Vereda La Palma, Predio La Palma",,GBIF.org
+HUMAN_OBSERVATION,Database,Corporación para la Gestión Ambiental Biodiversa,BIODIVERSA-ACODAL:2014-MM-053,"Caluromys derbianus (Waterhouse, 1841)",4.786656,-76.072353,Colombia,Valle del Cauca,Ansermanuevo,"Corregimiento Lucitania, Vereda Real Placer, Predio El Jardín",,GBIF.org
+HUMAN_OBSERVATION,Database,Corporación para la Gestión Ambiental Biodiversa,BIODIVERSA-ACODAL:2014-MM-594,"Caluromys derbianus (Waterhouse, 1841)",3.823642,-76.214111,Colombia,Valle del Cauca,Guacarí,"Corregimiento Santa Rosa de Tapias, Vereda Alto de Tapias, predio El Tabor 3",,GBIF.org
+HUMAN_OBSERVATION,Database,Corporación para la Gestión Ambiental Biodiversa,BIODIVERSA-ACODAL:2014-MM-410,"Caluromys derbianus (Waterhouse, 1841)",4.808203,-76.203478,Colombia,Valle del Cauca,El Cairo,"Corregimiento Alto Bonito, Vereda Alto Bonito, predio La Abadía",,GBIF.org
+HUMAN_OBSERVATION,Database,Corporación para la Gestión Ambiental Biodiversa,BIODIVERSA-ACODAL:2014-MM-662,"Caluromys derbianus (Waterhouse, 1841)",3.825078,-76.200167,Colombia,Valle del Cauca,Guacarí,"Corregimiento Monterrey, Vereda Miraflores, predio Las Fuentes",,GBIF.org
+HUMAN_OBSERVATION,Database,Corporación para la Gestión Ambiental Biodiversa,BIODIVERSA-ACODAL:2014-MM-237,"Caluromys derbianus (Waterhouse, 1841)",3.869506,-76.12805,Colombia,Valle del Cauca,Guadalajara de Buga,"Corregimiento Crucero Nogales, Predio Rinconadas",,GBIF.org
+HUMAN_OBSERVATION,Database,Corporación para la Gestión Ambiental Biodiversa,BIODIVERSA-ACODAL:2014-MM-433,"Caluromys derbianus (Waterhouse, 1841)",4.792267,-76.232467,Colombia,Valle del Cauca,El Cairo,"Corregimiento Cabecera municipal, Vereda Vallecitos, predio La Florida",,GBIF.org
+HUMAN_OBSERVATION,Database,Corporación para la Gestión Ambiental Biodiversa,BIODIVERSA-ACODAL:2014-MM-826,"Caluromys derbianus (Waterhouse, 1841)",3.396753,-76.173442,Colombia,Valle del Cauca,Pradera,"Corregimiento San Isidro, predio La Cuchilla",,GBIF.org
+HUMAN_OBSERVATION,Database,Corporación para la Gestión Ambiental Biodiversa,BIODIVERSA-ACODAL:2014-MM-628,"Caluromys derbianus (Waterhouse, 1841)",3.820861,-76.211369,Colombia,Valle del Cauca,Guacarí,"Corregimiento Santa Rosa de Tapias, Vereda Alto de Tapias, predio El Silencio",,GBIF.org
+HUMAN_OBSERVATION,Database,Corporación para la Gestión Ambiental Biodiversa,BIODIVERSA-ACODAL:2014-MM-740,"Caluromys derbianus (Waterhouse, 1841)",3.58455,-76.043867,Colombia,Valle del Cauca,Palmira,"Corregimiento Toche, Vereda Cabuyal adentro, paraje Los Chorros, predio Lusitania",,GBIF.org
+HUMAN_OBSERVATION,Database,Corporación para la Gestión Ambiental Biodiversa,BIODIVERSA-ACODAL:2014-MM-783,"Caluromys derbianus (Waterhouse, 1841)",3.546531,-76.0652,Colombia,Valle del Cauca,Palmira,"Corregimiento Toche, Paraje Los Chorros, predio Santa Ana de los Caballeros",,GBIF.org
+HUMAN_OBSERVATION,Database,Corporación para la Gestión Ambiental Biodiversa,BIODIVERSA-ACODAL:2014-MM-076,"Caluromys derbianus (Waterhouse, 1841)",4.783331,-76.033369,Colombia,Valle del Cauca,Ansermanuevo,"Corregimiento Lucitania, Vereda Real Placer, Predio El Topacio",,GBIF.org
+HUMAN_OBSERVATION,Database,Corporación para la Gestión Ambiental Biodiversa,BIODIVERSA-ACODAL:2014-MM-001,"Caluromys derbianus (Waterhouse, 1841)",4.845017,-76.131647,Colombia,Valle del Cauca,El Águila,"Corregimiento Catarina-El Embal, Zona rural municipio El Águila, paraje Montebello, Vereda El Embal, predio La Sonora",,GBIF.org
+HUMAN_OBSERVATION,Database,Instituto de Investigaciones Ambientales del Pacífico John Von Neumann - IIAP,IIAP_JÁNANO_Mamma_04,"Caluromys derbianus (Waterhouse, 1841)",5.6805,-77.248056,Colombia,Chocó,Nuquí,Corregimiento de Arusí,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de Historia Natural de la Universidad del Cauca,"MHNUCA:Mammal:382, 383","Caluromys derbianus (Waterhouse, 1841)",4.996889,-75.594417,Colombia,Caldas,Manizales,"Vereda Hoyo Frío, Cenicafé",,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de Historia Natural de la Universidad del Cauca,MHNUCA:Mammal:378,"Caluromys derbianus (Waterhouse, 1841)",5.006694,-75.81125,Colombia,Caldas,Belalcázar,Casco urbano,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de Historia Natural de la Universidad del Cauca,MHNUCA:Mammal:248,"Caluromys derbianus (Waterhouse, 1841)",4.9969,-75.5944,Colombia,Caldas,Manizales,Vereda Hoyo Frío,,GBIF.org
+HUMAN_OBSERVATION,Database,Asociación SELVA: Investigación para la Conservación en el Neotrópico,DARIEN03911 SELVADU3911,"Caluromys derbianus (Waterhouse, 1841)",8.63694,-77.34803,Colombia,Chocó,Acandí,Capurgana,,GBIF.org
+PRESERVED_SPECIMEN,Database,Royal Ontario Museum,ROM:Mammals:69493,"Caluromys derbianus (Waterhouse, 1841)",3,-76.583333,Colombia,Cauca,,Mazamorrero,,GBIF.org
+PRESERVED_SPECIMEN,Database,Royal Ontario Museum,"ROM:Mammals:49233-49235, 40384, 40388","Caluromys derbianus (Waterhouse, 1841)",1.148889,-76.647778,Colombia,Putumayo,,Mocoa,,GBIF.org
+HUMAN_OBSERVATION,Database,Corantioquia,Corantioquia-4755-75E6273E52D74061BDA971BD8B369F38,"Caluromys derbianus (Waterhouse, 1841)",5.66,-75.88,Colombia,Antioquia,El Bagre,,,GBIF.org
+HUMAN_OBSERVATION,Database,Corantioquia,Corantioquia-4755-0A6A812C7B5C4164B51980B5BED05202,"Caluromys derbianus (Waterhouse, 1841)",7.18,-75.77,Colombia,Antioquia,Ituango,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 69327,"Caluromys derbianus (Waterhouse, 1841)",7.9,-76.3,Colombia,Córdoba,,"Rio Nain, upper Rio Sinu",,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 69800-69804,"Caluromys derbianus (Waterhouse, 1841)",8.097215,-77.213341,Colombia,Chocó,Unguia,,,GBIF.org
+OCCURRENCE,Literature,,,"Caluromys derbianus (Waterhouse, 1841)",7.579029,-75.349545,Colombia,Antioquia,Cáceres,Rio Cauca a 75 m river,,Gardner (2008)
+OCCURRENCE,Literature,,,"Caluromys derbianus (Waterhouse, 1841)",5.05,-75.56,Colombia,Risaralda,Apía ,Rio Apía,,Gardner (2008)
+OCCURRENCE,Literature,,,"Caluromys derbianus (Waterhouse, 1841)",3.15,-76.4,Colombia,Valle del cauca,Cali,"Rio Cauquetá, Near cali 1,000 metros",,Gardner (2008)
+PRESERVED_SPECIMEN,Literature,Instituto de Ciencias Naturales de la Universidad Nacional de Colombia,ICN 16146 ,"Caluromys derbianus (Waterhouse, 1841)",5.103611,-75.4825,Colombia,Caldas,Manizales,Reserva hidrográfica río blanco,Electrocutaded,Sánchez and Alvear (2003)
+OCCURRENCE,Literature,,,"Caluromys derbianus (Waterhouse, 1841)",1.333333333,-78.15,Colombia,Nariño,,Junín,,Ramírez-Chaves et al. (2010)
+OCCURRENCE,Literature,,,"Caluromys derbianus (Waterhouse, 1841)",1.35,-78.13333333,Colombia,Nariño,,Junín la guarapería,,Ramírez-Chaves et al. (2010)
+OCCURRENCE,Literature,,,"Caluromys derbianus (Waterhouse, 1841)",9.483333333,-75.35,Colombia,Sucre,Colosó,Estación Primates,,Galván-Guevara and Sierra (2009)
+PRESERVED_SPECIMEN,Literature,American Museum of Natural History,AMNH 14189,"Caluromys derbianus (Waterhouse, 1841)",3.42,-76.52,Colombia,Valle del Cauca,Cali,"Rio Cauquetá, South of Cali  ",,Fonseca and Astúa (2015)
+OCCURRENCE,Literature,,,"Caluromys derbianus (Waterhouse, 1841)",2.688611111,-77.00305556,Colombia,Cauca,Tambo,PNN Munchique,,Correa (2009)
+OCCURRENCE,Literature,,,"Caluromys derbianus (Waterhouse, 1841)",2.071809,-77.0410347,Colombia,Cauca,Patía,Parador Patía,,"Alberico, M. and Negret (1992)"
+OCCURRENCE,Literature,,,"Caluromys derbianus (Waterhouse, 1841)",2.433333333,-76.63333333,Colombia,Cauca,Popayan,Vereda las torres,,Ramírez-Chaves et al. (2008)
+OCCURRENCE,Literature,,,"Caluromys derbianus (Waterhouse, 1841)",8.096666667,-76.73972222,Colombia,Antioquia,Turbo,Bocas de Atrato,,Ríos et al. (2011)
+OCCURRENCE,Literature,,,"Caluromys derbianus (Waterhouse, 1841)",3.448055556,-76.53916667,Colombia,Valle del Cauca,Cali,Vereda San Antonio,Electrocutaded,Saavedra-Rodríguez et al. (2013)
+OCCURRENCE,Literature,,,"Caluromys derbianus (Waterhouse, 1841)",5.066666667,-75.43333333,Colombia,Caldas,Manizales,Reserva rio blanco,,Sánchez et a. (2008)
+HUMAN_OBSERVATION,Citizen science,,,"Caluromys derbianus (Waterhouse, 1841)",9.15608,-76.13296,Colombia,Córdoba,Moñitos,Reserva Viento Solar- Rio cedro,,Wilfrido López Carreño
+HUMAN_OBSERVATION,Field work,,,"Caluromys derbianus (Waterhouse, 1841)",9.1348,-76.1839,Colombia,Córdoba,Moñitos,Reserva Viento Solar- Rio cedro,"banana crops, one mother and three young",This study
+HUMAN_OBSERVATION,Biological collection,Colección Zoológica de la Universidad de Córdoba,CZUC-M 0126,"Caluromys derbianus (Waterhouse, 1841)",9.068888889,-75.92722222,Colombia,Córdoba,Lorica,Finca Providencia,Dry forest,This study
+HUMAN_OBSERVATION,Field work,,,"Caluromys derbianus (Waterhouse, 1841)",8.7980609,-76.0926887,Colombia,Córdoba,Montería,,crops,This study
+HUMAN_OBSERVATION,Citizen science,,,"Caluromys derbianus (Waterhouse, 1841)",8.226783,-75.879141,Colombia,Córdoba,Tierralta,"Vereda Carrizola, cerca Santa Fe de Ralito","banana crops, one mother and three young",Carlos Sanchez
+HUMAN_OBSERVATION,Field work,,,"Caluromys derbianus (Waterhouse, 1841)",7.666972,-76.077333,Colombia,Córdoba,Tierralta,"Quebrada Varasantal, PNN Paramillo sector Rio Manso",,This study
+HUMAN_OBSERVATION,Citizen science,,,"Caluromys derbianus (Waterhouse, 1841)",5.2372,-75.8111,Colombia,Caldas,Anserma,"cerca de la Cuchilla de San Juan, cordillera Occidental",,Juan Camilo Cepeda Duque
+HUMAN_OBSERVATION,Citizen science,,,"Caluromys derbianus (Waterhouse, 1841)",9.126212,-75.46932,Colombia,Córdoba,San Andres de Sotavento,near to Chinú,Roadkill,Gerson Salcedo
+HUMAN_OBSERVATION,Citizen science,,,"Caluromys derbianus (Waterhouse, 1841)",8.898833,-75.962417,Colombia,Córdoba,Cerete,Cazuela,,Jorge Peña
+PHOTOGRAPHY,Literature,,,"Caluromys derbianus (Waterhouse, 1841)",5.05,-75.733333,Colombia,Caldas,Chinchiná,Bosques de La Esmeralda,,Terán-Sánchez et al. (2021)
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 7230753,"Caluromys derbianus (Waterhouse, 1841)",6.2114479,-77.3324425,Colombia,Chocó,Bahía Solano,,,https://www.inaturalist.org/observations/7230753
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 13137063,"Caluromys derbianus (Waterhouse, 1841)",7.835740572,-77.11795808,Colombia,Chocó,Riosucio,,,https://www.inaturalist.org/observations/13137063
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 17868684,"Caluromys derbianus (Waterhouse, 1841)",8.450209379,-76.78982465,Colombia,Antioquia,Necoclí,,,https://www.inaturalist.org/observations/17868684
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 18526242,"Caluromys derbianus (Waterhouse, 1841)",5.227096792,-75.8144604,Colombia,Risaralda,Belén de Umbría,,,https://www.inaturalist.org/observations/18526242
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 20968897,"Caluromys derbianus (Waterhouse, 1841)",8.135692,-76.713184,Colombia,Antioquia,Turbo,,,https://www.inaturalist.org/observations/20968897
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 42294170,"Caluromys derbianus (Waterhouse, 1841)",3.835618913,-76.8986686,Colombia,Valle del Cauca,Buenaventura,,,https://www.inaturalist.org/observations/42294170
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 64770544,"Caluromys derbianus (Waterhouse, 1841)",7.257018861,-76.44320268,Colombia,Antioquia,Mutatá,,,https://www.inaturalist.org/observations/64770544
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 85135690,"Caluromys derbianus (Waterhouse, 1841)",6.437586979,-75.5494437,Colombia,Antioquia,San Pedro de los Milagros,,,https://www.inaturalist.org/observations/85135690
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 100621474,"Caluromys derbianus (Waterhouse, 1841)",6.535184571,-75.73199826,Colombia,Antioquia,Sopetrán,,,https://www.inaturalist.org/observations/100621474
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 104816515,"Caluromys derbianus (Waterhouse, 1841)",4.706476015,-75.54275773,Colombia,Risaralda,Pereira,,,https://www.inaturalist.org/observations/104816515
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 106095945,"Caluromys derbianus (Waterhouse, 1841)",4.728533745,-75.57726288,Colombia,Risaralda,Pereira,,,https://www.inaturalist.org/observations/106095945
+PHOTOGRAPHY,Citizen science,,,"Caluromys derbianus (Waterhouse, 1841)",1.549634,-78.699268,Colombia,Nariño,Tumaco,Agrosavia Del Mira,,Chelito_sol
+PRESERVED_SPECIMEN,Literature,Colección de Mamíferos de la Universidad del Quindío,CMUQ 1280,"Caluromys derbianus (Waterhouse, 1841)",4.3458,-75.701,Colombia,Quindio,Pijao,,Electrocutaded,Bastidas-Domíngue et al. (2021)
+PHOTOGRAPHY,Literature,,,"Caluromys derbianus (Waterhouse, 1841)",4.3844,-75.7152,Colombia,Quindio,Cordoba,,,Bastidas-Domíngue et al. (2021)
+PHOTOGRAPHY,Citizen science,,,"Caluromys derbianus (Waterhouse, 1841)",9.012701,-76.262944,Colombia,Córdoba,Puerto Escondido,,,Javier Cordero
+HUMAN_OBSERVATION,Database,Fundación Ecológica Fenicia Defensa Natural,FEDENA:Mamiferos:Mamiferos-22,"Caluromys derbianus (Waterhouse, 1841)",4.086247,-76.382782,Colombia,Valle del Cauca,Riofrío,"San Pablo, Reserva Natural de la Sociedad Civil Los Naranjos",,GBIF.org
+HUMAN_OBSERVATION,Database,Fundación Ecológica Fenicia Defensa Natural,FEDENA:Mamiferos:Mamiferos-3,"Caluromys derbianus (Waterhouse, 1841)",4.084229,-76.39735,Colombia,Valle del Cauca,Riofrío,"La Italia, Reserva Natural de la Sociedad Civil  La Esperancita",,GBIF.org
+HUMAN_OBSERVATION,Database,Fundación Ecológica Fenicia Defensa Natural,FEDENA:Mamiferos:Mamiferos-60,"Caluromys derbianus (Waterhouse, 1841)",4.121359,-76.435459,Colombia,Valle del Cauca,Riofrío,"Cristalina Alta, Reserva Natural de la Sociedad Civil La Esmeralda",,GBIF.org
+HUMAN_OBSERVATION,Database,Fundación Ecológica Fenicia Defensa Natural,FEDENA:Mamiferos:Mamiferos-79,"Caluromys derbianus (Waterhouse, 1841)",4.130926,-76.422501,Colombia,Valle del Cauca,Riofrío,"Cristalina Alta, Reserva Natural de la Sociedad Civil Las Palmas",,GBIF.org
+HUMAN_OBSERVATION,Database,Fundación Ecológica Fenicia Defensa Natural,FEDENA:Mamiferos:Mamiferos-41,"Caluromys derbianus (Waterhouse, 1841)",4.08799,-76.382263,Colombia,Valle del Cauca,Riofrío,"San Pablo, Reserva Natural de la Sociedad Civil Los Guaduales",,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 109196597,"Caluromys derbianus (Waterhouse, 1841)",18.799623,-96.952484,México,Veracruz,Ixtaczoquitlán,,,https://www.inaturalist.org/observations/109196597
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 108694341,"Caluromys derbianus (Waterhouse, 1841)",18.32541,-89.87064,México,Campeche,Champotón,,,https://www.inaturalist.org/observations/108694341
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 108508451,"Caluromys derbianus (Waterhouse, 1841)",10.431245,-84.004836,Costa Rica,Heredia,Sarapiquí,,,https://www.inaturalist.org/observations/108508451
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 107870374,"Caluromys derbianus (Waterhouse, 1841)",10.465167,-84.747553,Costa Rica,Alajuela,San Carlos,,,https://www.inaturalist.org/observations/107870374
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 107839053,"Caluromys derbianus (Waterhouse, 1841)",9.392308,-84.136988,Costa Rica,Puntarenas,Aguirre,,,https://www.inaturalist.org/observations/107839053
+HUMAN_OBSERVATION,Citizen science,Observation.org,"OBS.217123685, OBS.174848198","Caluromys derbianus (Waterhouse, 1841)",9.266486,-83.881155,Costa Rica,,Aguirre,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 108284428,"Caluromys derbianus (Waterhouse, 1841)",17.176079,-91.343269,Guatemala,Petén,La Libertad,,,https://www.inaturalist.org/observations/108284428
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 108016435,"Caluromys derbianus (Waterhouse, 1841)",9.070977,-79.481983,Panamá,Panamá,San Miguelito,,,https://www.inaturalist.org/observations/108016435
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 106985814,"Caluromys derbianus (Waterhouse, 1841)",10.546618,-83.504398,Costa Rica,Limón,Pococí,,,https://www.inaturalist.org/observations/106985814
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 107641869,"Caluromys derbianus (Waterhouse, 1841)",8.21819,-82.274624,Panamá,Chiriquí,San Lorenzo,,,https://www.inaturalist.org/observations/107641869
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 105885326,"Caluromys derbianus (Waterhouse, 1841)",8.219686,-81.891619,Panamá,Chiriquí,San Félix,,,https://www.inaturalist.org/observations/105885326
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 105328902,"Caluromys derbianus (Waterhouse, 1841)",10.429265,-84.005802,Costa Rica,Heredia,Sarapiquí,,,https://www.inaturalist.org/observations/105328902
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 105326276,"Caluromys derbianus (Waterhouse, 1841)",10.431049,-84.006805,Costa Rica,Heredia,Sarapiquí,,,https://www.inaturalist.org/observations/105326276
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 94512330,"Caluromys derbianus (Waterhouse, 1841)",10.431304,-84.005176,Costa Rica,Heredia,Sarapiquí,,,https://www.inaturalist.org/observations/94512330
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 105031857,"Caluromys derbianus (Waterhouse, 1841)",9.255487,-82.145286,Panamá,Bocas del Toro,Bocas del Toro,,,https://www.inaturalist.org/observations/105031857
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 102715469,"Caluromys derbianus (Waterhouse, 1841)",8.612893,-80.13896,Panamá,Coclé,Antón,,,https://www.inaturalist.org/observations/102715469
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 102797808,"Caluromys derbianus (Waterhouse, 1841)",11.943734,-86.042934,Nicaragua,Masaya,Masaya,,,https://www.inaturalist.org/observations/102797808
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 102601314,"Caluromys derbianus (Waterhouse, 1841)",8.828706,-82.864463,Panamá,Chiriquí,Renacimiento,,,https://www.inaturalist.org/observations/102601314
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 12795873,"Caluromys derbianus (Waterhouse, 1841)",14.666141,-88.646074,Honduras,Lempira,Las Flores,,,https://www.inaturalist.org/observations/12795873
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 102181003,"Caluromys derbianus (Waterhouse, 1841)",8.516076,-83.312856,Costa Rica,Puntarenas,Golfito,,,https://www.inaturalist.org/observations/102181003
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 101656810,"Caluromys derbianus (Waterhouse, 1841)",11.938639,-86.050922,Nicaragua,Masaya,Masaya,,,https://www.inaturalist.org/observations/101656810
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 101580236,"Caluromys derbianus (Waterhouse, 1841)",9.254435,-82.144955,Panamá,Bocas del Toro,Bocas del Toro,,,https://www.inaturalist.org/observations/101580236
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 101876967,"Caluromys derbianus (Waterhouse, 1841)",11.935792,-86.053829,Nicaragua,Masaya,Masaya,,,https://www.inaturalist.org/observations/101876967
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 100824949,"Caluromys derbianus (Waterhouse, 1841)",9.077489,-79.651907,Panamá,Panamá,Panamá,,,https://www.inaturalist.org/observations/100824949
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 99910465,"Caluromys derbianus (Waterhouse, 1841)",10.996853,-84.95158,Nicaragua,Río San Juan,San Carlos,,,https://www.inaturalist.org/observations/99910465
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 99376518,"Caluromys derbianus (Waterhouse, 1841)",18.809589,-96.929596,México,Veracruz,Ixtaczoquitlán,,,https://www.inaturalist.org/observations/99376518
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 98902747,"Caluromys derbianus (Waterhouse, 1841)",8.40705,-83.30895,Costa Rica,Puntarenas,Golfito,,,https://www.inaturalist.org/observations/98902747
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 99512376,"Caluromys derbianus (Waterhouse, 1841)",-3.653932,-79.768204,Ecuador,El Oro,Piñas,,,https://www.inaturalist.org/observations/99512376
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 98298481,"Caluromys derbianus (Waterhouse, 1841)",15.667797,-88.13309,Honduras,Cortés,Omoa,,,https://www.inaturalist.org/observations/98298481
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 171561,"Caluromys derbianus (Waterhouse, 1841)",10.316833,-84.80833,Costa Rica,Puntarenas,Puntarenas,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 91627755,"Caluromys derbianus (Waterhouse, 1841)",8.680167,-83.546121,Costa Rica,Puntarenas,Osa,,,https://www.inaturalist.org/observations/91627755
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 90839689,"Caluromys derbianus (Waterhouse, 1841)",-0.588843,-79.366966,Ecuador,Los Rios,Buena Fé,,,https://www.inaturalist.org/observations/90839689
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 88084388,"Caluromys derbianus (Waterhouse, 1841)",10.328512,-84.838372,Costa Rica,Puntarenas,Puntarenas,,,https://www.inaturalist.org/observations/88084388
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 86932069,"Caluromys derbianus (Waterhouse, 1841)",8.572385,-82.714495,Panamá,Chiriquí,Bugaba,,,https://www.inaturalist.org/observations/86932069
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 86959216,"Caluromys derbianus (Waterhouse, 1841)",8.440858,-83.435215,Costa Rica,Puntarenas,Golfito,,,https://www.inaturalist.org/observations/86959216
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 83182396,"Caluromys derbianus (Waterhouse, 1841)",8.620383,-82.815586,Panamá,Chiriquí,Renacimiento,,,https://www.inaturalist.org/observations/83182396
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 83672992,"Caluromys derbianus (Waterhouse, 1841)",13.966557,-86.255954,Honduras,El Paraíso,Danlí,,,https://www.inaturalist.org/observations/83672992
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 81269139,"Caluromys derbianus (Waterhouse, 1841)",10.265687,-85.762763,Costa Rica,Guanacaste,Santa Cruz,,,https://www.inaturalist.org/observations/81269139
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 82254484,"Caluromys derbianus (Waterhouse, 1841)",10.748369,-84.917497,Costa Rica,Alajuela,Guatuso,,,https://www.inaturalist.org/observations/82254484
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 80844682,"Caluromys derbianus (Waterhouse, 1841)",15.561077,-88.297421,Honduras,Cortés,San Pedro Sula,,,https://www.inaturalist.org/observations/80844682
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 81723618,"Caluromys derbianus (Waterhouse, 1841)",10.9313,-83.726152,Nicaragua,Atlántico Sur,Bluefields,,,https://www.inaturalist.org/observations/81723618
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 80183388,"Caluromys derbianus (Waterhouse, 1841)",8.611142,-80.106895,Panamá,Coclé,Antón,,,https://www.inaturalist.org/observations/80183388
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 79505384,"Caluromys derbianus (Waterhouse, 1841)",11.109845,-85.76532,Nicaragua,Rivas,Tola,,,https://www.inaturalist.org/observations/79505384
+HUMAN_OBSERVATION,Citizen science,iNaturalist,"iNaturalist 71109373, 36765945","Caluromys derbianus (Waterhouse, 1841)",17.223847,-89.612606,Guatemala,Petén,Flores,,,https://www.inaturalist.org/observations/71109373
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 75965600,"Caluromys derbianus (Waterhouse, 1841)",15.378391,-88.181365,Honduras,Cortés,San Pedro Sula,,,https://www.inaturalist.org/observations/75965600
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 77493601,"Caluromys derbianus (Waterhouse, 1841)",14.441872,-87.621158,Honduras,Comayagua,Comayagua,,,https://www.inaturalist.org/observations/77493601
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 76814801,"Caluromys derbianus (Waterhouse, 1841)",9.54004,-82.587762,Panamá,Bocas del Toro,Changuinola,,,https://www.inaturalist.org/observations/76814801
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 69983441,"Caluromys derbianus (Waterhouse, 1841)",8.525251,-82.422248,Panamá,Chiriquí,Dolega,,,https://www.inaturalist.org/observations/69983441
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 73584570,"Caluromys derbianus (Waterhouse, 1841)",11.99203,-86.322682,Nicaragua,Managua,Managua,,,https://www.inaturalist.org/observations/73584570
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 71852179,"Caluromys derbianus (Waterhouse, 1841)",10.43143,-84.005272,Costa Rica,Heredia,Sarapiquí,,,https://www.inaturalist.org/observations/71852179
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 72390058,"Caluromys derbianus (Waterhouse, 1841)",11.905342,-86.183176,Nicaragua,Masaya,Masatepe,,,https://www.inaturalist.org/observations/72390058
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 72525421,"Caluromys derbianus (Waterhouse, 1841)",11.905238,-86.183021,Nicaragua,Masaya,Masatepe,,,https://www.inaturalist.org/observations/72525421
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 70947378,"Caluromys derbianus (Waterhouse, 1841)",15.219108,-87.481619,Honduras,Yoro,Yoro,,,https://www.inaturalist.org/observations/70947378
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 68385732,"Caluromys derbianus (Waterhouse, 1841)",-0.858535,-80.190836,Ecuador,Manabi,Bolívar,,,https://www.inaturalist.org/observations/68385732
+PRESERVED_SPECIMEN,Database,New York State Museum (NYSM),NYSM 15212,"Caluromys derbianus (Waterhouse, 1841)",9.156101,-79.848821,Panamá,Panamá,La Chorrera,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 67027336,"Caluromys derbianus (Waterhouse, 1841)",9.95704,-85.13729,Costa Rica,Puntarenas,Puntarenas,,,https://www.inaturalist.org/observations/67027336
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 66596647,"Caluromys derbianus (Waterhouse, 1841)",10.245292,-85.556708,Costa Rica,Guanacaste,Santa Cruz,,,https://www.inaturalist.org/observations/66596647
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 66529794,"Caluromys derbianus (Waterhouse, 1841)",8.811885,-82.961299,Costa Rica,Puntarenas,Coto Brus,,,https://www.inaturalist.org/observations/66529794
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 65452313,"Caluromys derbianus (Waterhouse, 1841)",10.772927,-84.903142,Costa Rica,Alajuela,Guatuso,,,https://www.inaturalist.org/observations/65452313
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 66278441,"Caluromys derbianus (Waterhouse, 1841)",10.759781,-84.825736,Costa Rica,Alajuela,Guatuso,,,https://www.inaturalist.org/observations/66278441
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 65988615,"Caluromys derbianus (Waterhouse, 1841)",11.863085,-86.212094,Nicaragua,Carazo,Jinotepe,,,https://www.inaturalist.org/observations/65988615
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 65311722,"Caluromys derbianus (Waterhouse, 1841)",10.627017,-85.67755,Costa Rica,Guanacaste,Liberia,,,https://www.inaturalist.org/observations/65311722
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 65117943,"Caluromys derbianus (Waterhouse, 1841)",15.507756,-88.055159,Honduras,Cortés,San Pedro Sula,,,https://www.inaturalist.org/observations/65117943
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 65439130,"Caluromys derbianus (Waterhouse, 1841)",11.891778,-86.061035,Nicaragua,Masaya,San Juan de Oriente,,,https://www.inaturalist.org/observations/65439130
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 51374185,"Caluromys derbianus (Waterhouse, 1841)",9.320153,-79.142528,Panamá,Panamá,Chepo,,,https://www.inaturalist.org/observations/51374185
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 63339549,"Caluromys derbianus (Waterhouse, 1841)",0.090266,-78.737272,Ecuador,Pichincha,Quito,,,https://www.inaturalist.org/observations/63339549
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 63408647,"Caluromys derbianus (Waterhouse, 1841)",0.824406,-78.341477,Ecuador,Carchi,Mira,,,https://www.inaturalist.org/observations/63408647
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 63148148,"Caluromys derbianus (Waterhouse, 1841)",14.947738,-88.047625,Honduras,Santa Bárbara,Santa Bárbara,,,https://www.inaturalist.org/observations/63148148
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 62250622,"Caluromys derbianus (Waterhouse, 1841)",12.06275,-86.314394,Nicaragua,Managua,Managua,,,https://www.inaturalist.org/observations/62250622
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 62446635,"Caluromys derbianus (Waterhouse, 1841)",11.902553,-86.239293,Nicaragua,Carazo,San Marcos,,,https://www.inaturalist.org/observations/62446635
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 60679413,"Caluromys derbianus (Waterhouse, 1841)",9.255232,-82.145227,Panamá,Bocas del Toro,Bocas del Toro,,,https://www.inaturalist.org/observations/60679413
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 59808306,"Caluromys derbianus (Waterhouse, 1841)",10.834827,-85.612414,Costa Rica,Guanacaste,Liberia,,,https://www.inaturalist.org/observations/59808306
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 58282763,"Caluromys derbianus (Waterhouse, 1841)",8.588399,-83.102239,Costa Rica,Puntarenas,Golfito,,,https://www.inaturalist.org/observations/58282763
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 56983308,"Caluromys derbianus (Waterhouse, 1841)",10.415826,-84.120618,Costa Rica,Heredia,Sarapiquí,,,https://www.inaturalist.org/observations/56983308
+HUMAN_OBSERVATION,Citizen science,iNaturalist,"iNaturalist 57175659, 17426118","Caluromys derbianus (Waterhouse, 1841)",10.430623,-84.006971,Costa Rica,Heredia,Sarapiquí,,,https://www.inaturalist.org/observations/57175659
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 56474910,"Caluromys derbianus (Waterhouse, 1841)",8.448373,-83.485459,Costa Rica,Puntarenas,Golfito,,,https://www.inaturalist.org/observations/56474910
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 56066409,"Caluromys derbianus (Waterhouse, 1841)",9.403178,-83.670834,Costa Rica,San José,Pérez Zeledón,,,https://www.inaturalist.org/observations/56066409
+HUMAN_OBSERVATION,Citizen science,Observation.org,OBS.185122199,"Caluromys derbianus (Waterhouse, 1841)",9.38281,-84.141945,Costa Rica,,Aguirre,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,Observation.org,OBS.108055758,"Caluromys derbianus (Waterhouse, 1841)",10.593287,-83.529852,Costa Rica,,Pococí,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,Observation.org,OBS.97479962,"Caluromys derbianus (Waterhouse, 1841)",10.595818,-83.532084,Costa Rica,,Pococí,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,Observation.org,"OBS.73895209, OBS.73893356","Caluromys derbianus (Waterhouse, 1841)",10.593121,-83.526534,Costa Rica,,Pococí,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,Observation.org,OBS.74045972,"Caluromys derbianus (Waterhouse, 1841)",10.593269,-83.527264,Costa Rica,,Pococí,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,Observation.org,OBS.133670696,"Caluromys derbianus (Waterhouse, 1841)",9.35166,-82.209721,Panamá,,Bocas del Toro,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,Observation.org,OBS.115640791,"Caluromys derbianus (Waterhouse, 1841)",10.456578,-84.025206,Costa Rica,,Sarapiquí,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 54213622,"Caluromys derbianus (Waterhouse, 1841)",18.585208,-95.073824,México,Veracruz,San Andrés Tuxtla,,,https://www.inaturalist.org/observations/54213622
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 49529831,"Caluromys derbianus (Waterhouse, 1841)",0.341261,-79.729156,Ecuador,Esmeraldas,Pedernales,,,https://www.inaturalist.org/observations/49529831
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 49908598,"Caluromys derbianus (Waterhouse, 1841)",0.121496,-79.240469,Ecuador,Pichincha,Puerto Quito,,,https://www.inaturalist.org/observations/49908598
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 49081644,"Caluromys derbianus (Waterhouse, 1841)",-0.050876,-78.744799,Ecuador,Pichincha,San Miguel de los Bancos,,,https://www.inaturalist.org/observations/49081644
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 49256502,"Caluromys derbianus (Waterhouse, 1841)",11.711066,-85.955437,Nicaragua,Granada,Nandaime,,,https://www.inaturalist.org/observations/49256502
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 47880283,"Caluromys derbianus (Waterhouse, 1841)",19.101468,-96.903769,México,Veracruz,Huatusco,,,https://www.inaturalist.org/observations/47880283
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",17.4325,-91.918333,México,Chiapas,Palenque,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",19.223889,-88.100556,México,Quintana roo,Felipe Carrillo Puerto,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",18.4471,-95.231364,México,Veracruz de ignacio de la llave,San Andrés Tuxtla,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Biología de la Universidad Nacional Autónoma de México,IBUNAM NO DISPONIBLE,"Caluromys derbianus (Waterhouse, 1841)",16.095833,-90.968333,México,Chiapas,Ocosingo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Biología de la Universidad Nacional Autónoma de México,IBUNAM 5826,"Caluromys derbianus (Waterhouse, 1841)",16.741667,-93.116667,México,Chiapas,Tuxtla Gutiérrez,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Biología de la Universidad Nacional Autónoma de México,IBUNAM 5828,"Caluromys derbianus (Waterhouse, 1841)",17.172222,-92.333333,México,Chiapas,Yajalón,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 93494,"Caluromys derbianus (Waterhouse, 1841)",17.992778,-89.536667,México,Campeche,Champotón,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",17.548333,-92.951111,México,Tabasco,Teapa,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",20.363056,-87.332778,México,Quintana roo,Cozumel,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 66918,"Caluromys derbianus (Waterhouse, 1841)",17.483333,-92.045833,México,Chiapas,Palenque,,,GBIF.org
+HUMAN_OBSERVATION,Database,Universidad Juárez Autónoma de Tabasco,UJAT NO APLICA,"Caluromys derbianus (Waterhouse, 1841)",17.608708,-92.466675,México,Tabasco,Macuspana,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Nebraska State Museum Mammals Collection,UNSM 575393,"Caluromys derbianus (Waterhouse, 1841)",8.8989,-81.8611,Panamá,Comarca ngobe bugle,Kankintú,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 110662,"Caluromys derbianus (Waterhouse, 1841)",12.1495,-86.167,Nicaragua,Managua,Managua,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Michigan State University Mammalogy,"MSU MR.22834-22836, 22852-22854, 23134-23138","Caluromys derbianus (Waterhouse, 1841)",8.95,-79.63032,Panamá,Panama,Arraiján,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Nebraska State Museum Mammals Collection,UNSM 503420,"Caluromys derbianus (Waterhouse, 1841)",9.2061,-79.8242,Panamá,Colon,Colón,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum,NHM 26535,"Caluromys derbianus (Waterhouse, 1841)",10.6697,-85.4829,Costa Rica,Guanacaste,Liberia,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 106529,"Caluromys derbianus (Waterhouse, 1841)",17.20306,-89.01944,Belice,Cayo,,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 128385,"Caluromys derbianus (Waterhouse, 1841)",10.4329,-84.0056,Costa Rica,Heredia,Sarapiquí,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum,NHM 25645,"Caluromys derbianus (Waterhouse, 1841)",9.95032,-84.50549,Costa Rica,Alajuela,San Mateo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Cornell University Museum of Vertebrates,CUMV 12672,"Caluromys derbianus (Waterhouse, 1841)",10.4621,-85.0932,Costa Rica,Guanacaste,Cañas,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Louisiana State University, Museum of Natural Science",LSU 12633,"Caluromys derbianus (Waterhouse, 1841)",9.94612,-84.19623,Costa Rica,San jose,Santa Ana,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Nebraska State Museum Mammals Collection,UNSM 339889,"Caluromys derbianus (Waterhouse, 1841)",11.731,-86.0847,Nicaragua,Granada,Nandaime,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Nebraska State Museum Mammals Collection,UNSM 339892,"Caluromys derbianus (Waterhouse, 1841)",11.7721,-85.9514,Nicaragua,Granada,Granada,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Nebraska State Museum Mammals Collection,UNSM 315010,"Caluromys derbianus (Waterhouse, 1841)",9.4287,-82.3433,Panamá,Bocas del toro,Changuinola,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Southwestern Biology, Division of Mammals",MSB-UNM 26782,"Caluromys derbianus (Waterhouse, 1841)",10.4526,-85.1291,Costa Rica,Guanacaste,Cañas,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum,NHM 25525,"Caluromys derbianus (Waterhouse, 1841)",8.6768,-82.9514,Costa Rica,Puntarenas,Corredores,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Nebraska State Museum Mammals Collection,UNSM 283130,"Caluromys derbianus (Waterhouse, 1841)",7.9459,-80.5236,Panamá,Herrera,Parita,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum,NHM 25262,"Caluromys derbianus (Waterhouse, 1841)",9.9632,-84.7301,Costa Rica,Puntarenas,Esparza,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 96200,"Caluromys derbianus (Waterhouse, 1841)",12.1663,-86.167,Nicaragua,Managua,Lago de Managua,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 105908,"Caluromys derbianus (Waterhouse, 1841)",11.3209,-85.7113,Nicaragua,Rivas,Lago de Nicaragua,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum,NHM 25589,"Caluromys derbianus (Waterhouse, 1841)",8.7057,-82.9557,Costa Rica,Puntarenas,Coto Brus,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Nebraska State Museum Mammals Collection,UNSM 331068,"Caluromys derbianus (Waterhouse, 1841)",8.2083,-81.7393,Panamá,Chiriqui,Tolé,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum,NHM 28700,"Caluromys derbianus (Waterhouse, 1841)",10.4167,-85.1853,Costa Rica,Guanacaste,Bagaces,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Nebraska State Museum Mammals Collection,UNSM 362317,"Caluromys derbianus (Waterhouse, 1841)",8.3673,-82.7467,Panamá,Chiriqui,Alanje,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Nebraska State Museum Mammals Collection,UNSM 315012,"Caluromys derbianus (Waterhouse, 1841)",9.4142,-82.4998,Panamá,Bocas del toro,Changuinola,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 43958623,"Caluromys derbianus (Waterhouse, 1841)",8.504174,-80.344685,Panamá,Coclé,Penonomé,,,https://www.inaturalist.org/observations/43958623
+HUMAN_OBSERVATION,Citizen science,iNaturalist,"iNaturalist 43199311, 42615472","Caluromys derbianus (Waterhouse, 1841)",8.002709,-80.521619,Panamá,Herrera,Parita,,,https://www.inaturalist.org/observations/43199311
+HUMAN_OBSERVATION,Citizen science,iNaturalist,"iNaturalist 40662011, 40662021, 40662032, 40662034, 40662037","Caluromys derbianus (Waterhouse, 1841)",-0.116086,-80.124525,Ecuador,Manabi,Jama,,,https://www.inaturalist.org/observations/40662011
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 40607692,"Caluromys derbianus (Waterhouse, 1841)",-0.162302,-80.021903,Ecuador,Manabi,Pedernales,,,https://www.inaturalist.org/observations/40607692
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 41359867,"Caluromys derbianus (Waterhouse, 1841)",9.90035,-83.668504,Costa Rica,Cartago,Turrialba,,,https://www.inaturalist.org/observations/41359867
+HUMAN_OBSERVATION,Citizen science,iNaturalist,"iNaturalist 40774317, 40774322, 40774325, 40774327, 40774330, 40774337, 40774340, 40774341, 40774342, 40774351","Caluromys derbianus (Waterhouse, 1841)",-0.116086,-80.124536,Ecuador,Manabi,Jama,,,https://www.inaturalist.org/observations/40774317
+HUMAN_OBSERVATION,Citizen science,iNaturalist,"iNaturalist 40782942, 9212871","Caluromys derbianus (Waterhouse, 1841)",9.25527,-82.145419,Panamá,Bocas del Toro,Bocas del Toro,,,https://www.inaturalist.org/observations/40782942
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 41232048,"Caluromys derbianus (Waterhouse, 1841)",14.742827,-88.659357,Honduras,Copán,Santa Rosa de Copán,,,https://www.inaturalist.org/observations/41232048
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 41060169,"Caluromys derbianus (Waterhouse, 1841)",9.123231,-79.696356,Panamá,Colón,Colón,,,https://www.inaturalist.org/observations/41060169
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 38843301,"Caluromys derbianus (Waterhouse, 1841)",0.144916,-79.141299,Ecuador,Pichincha,Pedro Vicente Maldonado,,,https://www.inaturalist.org/observations/38843301
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 40194103,"Caluromys derbianus (Waterhouse, 1841)",-0.089053,-80.036692,Ecuador,Manabi,Pedernales,,,https://www.inaturalist.org/observations/40194103
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 40121333,"Caluromys derbianus (Waterhouse, 1841)",18.36163,-93.376159,México,Tabasco,Comalcalco,,,https://www.inaturalist.org/observations/40121333
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 38296798,"Caluromys derbianus (Waterhouse, 1841)",10.678229,-85.633893,Costa Rica,Guanacaste,Liberia,,,https://www.inaturalist.org/observations/38296798
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 38205448,"Caluromys derbianus (Waterhouse, 1841)",15.766782,-86.999008,Honduras,Atlántida,La Ceiba,,,https://www.inaturalist.org/observations/38205448
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 37934346,"Caluromys derbianus (Waterhouse, 1841)",14.939498,-88.019725,Honduras,Cortés,Santa Cruz de Yojoa,,,https://www.inaturalist.org/observations/37934346
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 32392570,"Caluromys derbianus (Waterhouse, 1841)",9.098194,-81.559647,Panamá,Ngöbe Buglé,Kusapín,,,https://www.inaturalist.org/observations/32392570
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 10293546,"Caluromys derbianus (Waterhouse, 1841)",9.065223,-79.645298,Panamá,Panamá,Panamá,,,https://www.inaturalist.org/observations/10293546
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 37019319,"Caluromys derbianus (Waterhouse, 1841)",7.775436,-77.674258,Panamá,Darién,Pinogana,,,https://www.inaturalist.org/observations/37019319
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 36903886,"Caluromys derbianus (Waterhouse, 1841)",8.186472,-77.770553,Panamá,Darién,Pinogana,,,https://www.inaturalist.org/observations/36903886
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 36617490,"Caluromys derbianus (Waterhouse, 1841)",14.607208,-88.856966,Honduras,Copán,San Pedro,,,https://www.inaturalist.org/observations/36617490
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 36761173,"Caluromys derbianus (Waterhouse, 1841)",10.480279,-84.765519,Costa Rica,Alajuela,San Carlos,,,https://www.inaturalist.org/observations/36761173
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 36051061,"Caluromys derbianus (Waterhouse, 1841)",17.486572,-92.051024,México,Chiapas,Palenque,,,https://www.inaturalist.org/observations/36051061
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 36320459,"Caluromys derbianus (Waterhouse, 1841)",14.848519,-88.79717,Honduras,Copán,Dolores,,,https://www.inaturalist.org/observations/36320459
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 35934544,"Caluromys derbianus (Waterhouse, 1841)",-1.191221,-79.510771,Ecuador,Los Rios,Mocache,,,https://www.inaturalist.org/observations/35934544
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 35781783,"Caluromys derbianus (Waterhouse, 1841)",10.431292,-84.00595,Costa Rica,Heredia,Sarapiquí,,,https://www.inaturalist.org/observations/35781783
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 35009591,"Caluromys derbianus (Waterhouse, 1841)",-3.567557,-79.86429,Ecuador,El Oro,Santa Rosa,,,https://www.inaturalist.org/observations/35009591
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 32172659,"Caluromys derbianus (Waterhouse, 1841)",10.359573,-83.394073,Costa Rica,Limón,Pococí,,,https://www.inaturalist.org/observations/32172659
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 31633173,"Caluromys derbianus (Waterhouse, 1841)",18.863418,-96.900383,México,Veracruz,Fortín,,,https://www.inaturalist.org/observations/31633173
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 31536950,"Caluromys derbianus (Waterhouse, 1841)",10.359617,-83.394076,Costa Rica,Limón,Pococí,,,https://www.inaturalist.org/observations/31536950
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 30019122,"Caluromys derbianus (Waterhouse, 1841)",11.99144,-86.354829,Nicaragua,Managua,Managua,,,https://www.inaturalist.org/observations/30019122
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 29541900,"Caluromys derbianus (Waterhouse, 1841)",-0.014502,-79.386609,Ecuador,Santo Domingo de los Tsáchilas,La Concordia,,,https://www.inaturalist.org/observations/29541900
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 28413497,"Caluromys derbianus (Waterhouse, 1841)",8.641411,-83.730164,Costa Rica,Puntarenas,Osa,,,https://www.inaturalist.org/observations/28413497
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 28397190,"Caluromys derbianus (Waterhouse, 1841)",17.436979,-90.177612,Guatemala,Petén,San Andrés,,,https://www.inaturalist.org/observations/28397190
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 28093667,"Caluromys derbianus (Waterhouse, 1841)",8.657157,-83.254387,Costa Rica,Puntarenas,Golfito,,,https://www.inaturalist.org/observations/28093667
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 19801206,"Caluromys derbianus (Waterhouse, 1841)",9.23645,-83.841808,Costa Rica,Puntarenas,Osa,,,https://www.inaturalist.org/observations/19801206
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 25529219,"Caluromys derbianus (Waterhouse, 1841)",16.822084,-90.887275,México,Chiapas,La Libertad,,,https://www.inaturalist.org/observations/25529219
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 21747617,"Caluromys derbianus (Waterhouse, 1841)",8.694223,-83.673143,Costa Rica,Puntarenas,Osa,,,https://www.inaturalist.org/observations/21747617
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 25225943,"Caluromys derbianus (Waterhouse, 1841)",0.128077,-78.654636,Ecuador,Pichincha,Quito,,,https://www.inaturalist.org/observations/25225943
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 22612232,"Caluromys derbianus (Waterhouse, 1841)",8.002061,-80.891767,Panamá,Veraguas,Atalaya,,,https://www.inaturalist.org/observations/22612232
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 22447537,"Caluromys derbianus (Waterhouse, 1841)",8.659233,-83.2547,Costa Rica,Puntarenas,Golfito,,,https://www.inaturalist.org/observations/22447537
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 22371484,"Caluromys derbianus (Waterhouse, 1841)",18.437152,-93.251823,México,Tabasco,Paraíso,,,https://www.inaturalist.org/observations/22371484
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 21559100,"Caluromys derbianus (Waterhouse, 1841)",18.429348,-93.253187,México,Tabasco,Paraíso,,,https://www.inaturalist.org/observations/21559100
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 15274522,"Caluromys derbianus (Waterhouse, 1841)",9.106253,-79.692772,Panamá,Panamá Oeste,Arraiján,,,https://www.inaturalist.org/observations/15274522
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 20983545,"Caluromys derbianus (Waterhouse, 1841)",9.295626,-79.105345,Panamá,Panamá,Chepo,,,https://www.inaturalist.org/observations/20983545
+PRESERVED_SPECIMEN,Database,"University of Michigan Museum of Zoology, Division of Mammals",UMMZ 114856,"Caluromys derbianus (Waterhouse, 1841)",10.41667,-85.19265,Costa Rica,Guanacaste,Bagaces,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"University of Michigan Museum of Zoology, Division of Mammals",UMMZ 111998,"Caluromys derbianus (Waterhouse, 1841)",9.25727,-83.86666,Costa Rica,Puntarenas,Aguirre,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"University of Michigan Museum of Zoology, Division of Mammals",UMMZ 113474,"Caluromys derbianus (Waterhouse, 1841)",9.901134861,-83.64971399,Costa Rica,Cartago,Turrialba,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 19380296,"Caluromys derbianus (Waterhouse, 1841)",14.907981,-88.102147,Honduras,Santa Bárbara,Santa Bárbara,,,https://www.inaturalist.org/observations/19380296
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 19243125,"Caluromys derbianus (Waterhouse, 1841)",9.343153,-82.179038,Panamá,Bocas del Toro,Bocas del Toro,,,https://www.inaturalist.org/observations/19243125
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 16145776,"Caluromys derbianus (Waterhouse, 1841)",15.727888,-86.729521,Honduras,Atlántida,La Ceiba,,,https://www.inaturalist.org/observations/16145776
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 19039003,"Caluromys derbianus (Waterhouse, 1841)",10.449953,-84.069003,Costa Rica,Heredia,Sarapiquí,,,https://www.inaturalist.org/observations/19039003
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 14295205,"Caluromys derbianus (Waterhouse, 1841)",-0.334992,-79.759438,Ecuador,Manabi,Flavio Alfaro,,,https://www.inaturalist.org/observations/14295205
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 18405617,"Caluromys derbianus (Waterhouse, 1841)",9.372507,-84.005747,Costa Rica,Puntarenas,Aguirre,,,https://www.inaturalist.org/observations/18405617
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 17854781,"Caluromys derbianus (Waterhouse, 1841)",12.034269,-86.182767,Nicaragua,Masaya,Nindirí,,,https://www.inaturalist.org/observations/17854781
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 15276960,"Caluromys derbianus (Waterhouse, 1841)",10.069564,-83.551358,Costa Rica,Limón,Siquirres,,,https://www.inaturalist.org/observations/15276960
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 170053,"Caluromys derbianus (Waterhouse, 1841)",8.785286425,-82.97519383,Costa Rica,Puntarenas,Coto Brus,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 16691979,"Caluromys derbianus (Waterhouse, 1841)",10.431337,-84.005076,Costa Rica,Heredia,Sarapiquí,,,https://www.inaturalist.org/observations/16691979
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 15207458,"Caluromys derbianus (Waterhouse, 1841)",11.834444,-85.978333,Nicaragua,Granada,Granada,,,https://www.inaturalist.org/observations/15207458
+PRESERVED_SPECIMEN,Database,Fortalecimiento de las colecciones de ECOSUR. Primera fase (Mamíferos San cristóbal),ECOSUR 5251,"Caluromys derbianus (Waterhouse, 1841)",19.389722,-88.074167,México,Quintana roo,Felipe Carrillo Puerto,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum,NHM 88.8.8.17,"Caluromys derbianus (Waterhouse, 1841)",17.548056,-92.952782,México,Tabasco,Teapa,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum,NHM 94.12.18.28,"Caluromys derbianus (Waterhouse, 1841)",19.596944,-96.567222,México,Veracruz de ignacio de la llave,Actopan,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",21.64496,-98.274584,México,Veracruz de ignacio de la llave,Tempoal,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",18.606667,-90.736111,México,Campeche,Carmen,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",18.436667,-95.133611,México,Veracruz de ignacio de la llave,Catemaco,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",18.065278,-95.148889,México,Veracruz de ignacio de la llave,Acayucan,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",17.432778,-94.457778,México,Veracruz de ignacio de la llave,Minatitlán,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",21.485556,-97.734444,México,Veracruz de ignacio de la llave,Tamalín,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",17.546389,-92.951111,México,Tabasco,Teapa,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",17.432778,-95.024444,México,Veracruz de ignacio de la llave,Jesús Carranza,,,GBIF.org
+OCCURRENCE,Database,Instituto de Biología de la Universidad Nacional Autónoma de México,IBUNAM ----,"Caluromys derbianus (Waterhouse, 1841)",14.605833,-92.229444,México,Chiapas,Suchiate,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",16.877778,-95.038889,México,Oaxaca,Dist. Juchitan,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",18.436667,-95.216944,México,Veracruz de ignacio de la llave,San Andrés Tuxtla,,,GBIF.org
+PRESERVED_SPECIMEN,Database,American Museum of Natural History,AMNH 185756,"Caluromys derbianus (Waterhouse, 1841)",17.091667,-95.058333,México,Oaxaca,Dist. Juchitan,,,GBIF.org
+PRESERVED_SPECIMEN,Database,,,"Caluromys derbianus (Waterhouse, 1841)",18.458333,-95.191667,México,Veracruz de ignacio de la llave,San Andrés Tuxtla,,,GBIF.org
+PRESERVED_SPECIMEN,Database,,,"Caluromys derbianus (Waterhouse, 1841)",18.81735392,-96.71674436,México,Veracruz de ignacio de la llave,Yanga,,,GBIF.org
+PRESERVED_SPECIMEN,Database,,,"Caluromys derbianus (Waterhouse, 1841)",18.825,-96.725,México,Veracruz de ignacio de la llave,Yanga,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Smithsonian Institution, National Museum of Natural History",USNM 251470,"Caluromys derbianus (Waterhouse, 1841)",18.641667,-96.725,México,Veracruz de ignacio de la llave,Tezonapa,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Fortalecimiento de las colecciones de ECOSUR. Primera fase (Mamíferos San cristóbal),ECOSUR 1548,"Caluromys derbianus (Waterhouse, 1841)",17.363889,-92.035833,México,Chiapas,Salto de Agua,,,GBIF.org
+OCCURRENCE,Database,,,"Caluromys derbianus (Waterhouse, 1841)",19.007833,-97.025994,México,Veracruz de ignacio de la llave,Chocomán,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Instituto de Historia Natural y Ecología, (IHNE) Chiapas",IHNE 33,"Caluromys derbianus (Waterhouse, 1841)",16.383333,-93.8,México,Chiapas,Jiquipilas,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Louisiana State University, Museum of Natural Science",LSU ----,"Caluromys derbianus (Waterhouse, 1841)",17.548102,-92.952806,México,Tabasco,Teapa,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH ----,"Caluromys derbianus (Waterhouse, 1841)",17.485922,-92.044536,México,Chiapas,Palenque,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Moore Laboratory of Zoology,MLZ ----,"Caluromys derbianus (Waterhouse, 1841)",19.071453,-96.971567,México,Veracruz de ignacio de la llave,Coscomatepec,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 15293615,"Caluromys derbianus (Waterhouse, 1841)",10.488772,-84.942515,Costa Rica,Guanacaste,Tilarán,,,https://www.inaturalist.org/observations/15293615
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 13732576,"Caluromys derbianus (Waterhouse, 1841)",0.12333,-78.63042,Ecuador,Pichincha,Quito,,,https://www.inaturalist.org/observations/13732576
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 14586392-14586395,"Caluromys derbianus (Waterhouse, 1841)",17.253302,-92.112166,México,Chiapas,Chilón,,,https://www.inaturalist.org/observations/14586395
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 13904789,"Caluromys derbianus (Waterhouse, 1841)",17.532158,-90.188148,Guatemala,Petén,San Andrés,,,https://www.inaturalist.org/observations/13904789
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 13534740,"Caluromys derbianus (Waterhouse, 1841)",10.56219,-83.512025,Costa Rica,Limón,Pococí,,,https://www.inaturalist.org/observations/13534740
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 13106233,"Caluromys derbianus (Waterhouse, 1841)",8.50912,-80.354442,Panamá,Coclé,Penonomé,,,https://www.inaturalist.org/observations/13106233
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 12157781,"Caluromys derbianus (Waterhouse, 1841)",17.774394,-88.530407,Belice,Belize,,,,https://www.inaturalist.org/observations/12157781
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 10402666,"Caluromys derbianus (Waterhouse, 1841)",15.692836,-86.902481,Honduras,Atlántida,El Porvenir,,,https://www.inaturalist.org/observations/10402666
+HUMAN_OBSERVATION,Citizen science,naturgucker.de,naturgucker 1301537574,"Caluromys derbianus (Waterhouse, 1841)",9.270879,-82.138039,Panamá,,Bocas del Toro,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 10148190,"Caluromys derbianus (Waterhouse, 1841)",8.689774,-83.663849,Costa Rica,Puntarenas,Osa,,,https://www.inaturalist.org/observations/10148190
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 9619071,"Caluromys derbianus (Waterhouse, 1841)",-0.048717,-78.775198,Ecuador,Pichincha,San Miguel de los Bancos,,,https://www.inaturalist.org/observations/9619071
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 4042569,"Caluromys derbianus (Waterhouse, 1841)",15.690352,-86.898387,Honduras,Atlántida,El Porvenir,,,https://www.inaturalist.org/observations/4042569
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 9603803,"Caluromys derbianus (Waterhouse, 1841)",9.924818,-83.191205,Costa Rica,Limón,Matina,,,https://www.inaturalist.org/observations/9603803
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 6305166,"Caluromys derbianus (Waterhouse, 1841)",9.396904,-82.311287,Panamá,Bocas del Toro,Bocas del Toro,,,https://www.inaturalist.org/observations/6305166
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 4778116,"Caluromys derbianus (Waterhouse, 1841)",10.431333,-84.005067,Costa Rica,Heredia,Sarapiquí,,,https://www.inaturalist.org/observations/4778116
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 7801086,"Caluromys derbianus (Waterhouse, 1841)",10.431,-84.007,Costa Rica,Heredia,Sarapiquí,,,https://www.inaturalist.org/observations/7801086
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 8491262,"Caluromys derbianus (Waterhouse, 1841)",17.554733,-92.029478,México,Chiapas,Palenque,,,https://www.inaturalist.org/observations/8491262
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 1480834,"Caluromys derbianus (Waterhouse, 1841)",10.429937,-84.008152,Costa Rica,Heredia,Sarapiquí,,,https://www.inaturalist.org/observations/1480834
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 7783037,"Caluromys derbianus (Waterhouse, 1841)",17.16877,-92.340241,México,Chiapas,Yajalón,,,https://www.inaturalist.org/observations/7783037
+PRESERVED_SPECIMEN,Database,Florida Museum of Natural History,UF 3245,"Caluromys derbianus (Waterhouse, 1841)",15.758333,-86.35,Honduras,,Balfate,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 6433853,"Caluromys derbianus (Waterhouse, 1841)",18.11164,-94.358096,México,Veracruz,Coatzacoalcos,,,https://www.inaturalist.org/observations/6433853
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 6345158,"Caluromys derbianus (Waterhouse, 1841)",9.718867,-82.96512,Costa Rica,Limón,Limón,,,https://www.inaturalist.org/observations/6345158
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 1796493,"Caluromys derbianus (Waterhouse, 1841)",18.569935,-95.057499,México,Veracruz,San Andrés Tuxtla,,,https://www.inaturalist.org/observations/1796493
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 3457211,"Caluromys derbianus (Waterhouse, 1841)",11.196789,-85.809201,Nicaragua,Rivas,Tola,,,https://www.inaturalist.org/observations/3457211
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 4337454,"Caluromys derbianus (Waterhouse, 1841)",18.754697,-96.787154,México,Veracruz,Omealca,,,https://www.inaturalist.org/observations/4337454
+PRESERVED_SPECIMEN,Database,Instituto de Biología de la Universidad Nacional Autónoma de México,IBUNAM 27515,"Caluromys derbianus (Waterhouse, 1841)",17.548056,-92.9375,México,Tabasco,Teapa,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Biología de la Universidad Nacional Autónoma de México,IBUNAM 14820,"Caluromys derbianus (Waterhouse, 1841)",18.421111,-95.1225,México,Veracruz de ignacio de la llave,Catemaco,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Biología de la Universidad Nacional Autónoma de México,IBUNAM 37198,"Caluromys derbianus (Waterhouse, 1841)",17.811111,-92.952778,México,Tabasco,Centro,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Biología de la Universidad Nacional Autónoma de México,IBUNAM 7183,"Caluromys derbianus (Waterhouse, 1841)",18.896944,-96.997778,México,Veracruz de ignacio de la llave,Atzacan,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Biología de la Universidad Nacional Autónoma de México,IBUNAM 11308,"Caluromys derbianus (Waterhouse, 1841)",17.817222,-95.825555,México,Veracruz de ignacio de la llave,Playa Vicente,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Biología de la Universidad Nacional Autónoma de México,IBUNAM 7943,"Caluromys derbianus (Waterhouse, 1841)",18.410278,-95.113611,México,Veracruz de ignacio de la llave,Catemaco,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Biología de la Universidad Nacional Autónoma de México,IBUNAM 34758,"Caluromys derbianus (Waterhouse, 1841)",16.097222,-90.970833,México,Chiapas,Ocosingo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Smithsonian Institution, National Museum of Natural History",USNM 456809,"Caluromys derbianus (Waterhouse, 1841)",9.33,-79.95,Panamá,Canal Zone,Colón,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Smithsonian Institution, National Museum of Natural History",USNM 14812,"Caluromys derbianus (Waterhouse, 1841)",8.45,-82.4333,Panamá,,David,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 3895529,"Caluromys derbianus (Waterhouse, 1841)",18.447278,-95.068622,México,Veracruz,Catemaco,,,https://www.inaturalist.org/observations/3895529
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 793556,"Caluromys derbianus (Waterhouse, 1841)",10.359671,-83.394642,Costa Rica,Limón,Pococí,,,https://www.inaturalist.org/observations/793556
+PRESERVED_SPECIMEN,Database,Royal Ontario Museum,ROM 35202,"Caluromys derbianus (Waterhouse, 1841)",17.2,-89.016667,Belice,,,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley",MVZ 84330,"Caluromys derbianus (Waterhouse, 1841)",-1.7667,-79.1833,Ecuador,Tungurahua,San Miguel,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley",MVZ 183319-183322,"Caluromys derbianus (Waterhouse, 1841)",8.53333,-79.85,Panamá,,,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley; California Academy of Sciences","MVZ 116808, 135231-135233, CAS 24490","Caluromys derbianus (Waterhouse, 1841)",8.96667,-79.53333,Panamá,Panama,Panamá,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Southwestern Biology, Division of Mammals",MSB 26782,"Caluromys derbianus (Waterhouse, 1841)",10.36777739,-84.96641569,Costa Rica,Guanacaste,Abangares,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Southwestern Biology, Division of Mammals",MSB 262757,"Caluromys derbianus (Waterhouse, 1841)",8.326246364,-81.83424939,Panamá,,San Félix,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 1942440,"Caluromys derbianus (Waterhouse, 1841)",18.445661,-95.067265,México,Veracruz,Catemaco,,,https://www.inaturalist.org/observations/1942440
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 25062,"Caluromys derbianus (Waterhouse, 1841)",10.68441968,-85.44975767,Costa Rica,Guanacaste Prov,Liberia,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 25155-25159,"Caluromys derbianus (Waterhouse, 1841)",10.35110693,-85.56642964,Costa Rica,Guanacaste Prov,Santa Cruz,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,"LACM 15313, 25977","Caluromys derbianus (Waterhouse, 1841)",9.73333,-82.96667,Costa Rica,Limón,Limón,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,"LACM 25282, 25392","Caluromys derbianus (Waterhouse, 1841)",8.698648881,-83.48701751,Costa Rica,Puntarenas Prov,Golfito,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 23371-23372,"Caluromys derbianus (Waterhouse, 1841)",10.7,-85.46,Costa Rica,Guanacaste Prov,Liberia,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 25525,"Caluromys derbianus (Waterhouse, 1841)",8.64249302,-82.96919537,Costa Rica,Puntarenas Prov,Corredores,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 25262,"Caluromys derbianus (Waterhouse, 1841)",10.55,-85.7167,Costa Rica,Puntarenas Prov,Carrillo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 28700,"Caluromys derbianus (Waterhouse, 1841)",10.41667,-85.1853,Costa Rica,Guanacaste Prov,Bagaces,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 26535,"Caluromys derbianus (Waterhouse, 1841)",10.70608,-85.43333,Costa Rica,Guanacaste Prov,Liberia,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 25590,"Caluromys derbianus (Waterhouse, 1841)",8.644202902,-82.98152566,Costa Rica,Puntarenas Prov,Corredores,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 25153,"Caluromys derbianus (Waterhouse, 1841)",9.93333,-83.03333,Costa Rica,Limón,Limón,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 25589,"Caluromys derbianus (Waterhouse, 1841)",8.647862703,-82.98347572,Costa Rica,Puntarenas Prov,Corredores,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 24209,"Caluromys derbianus (Waterhouse, 1841)",9.933333,-84.183334,Costa Rica,San Jose Prov,Santa Ana,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 67455,"Caluromys derbianus (Waterhouse, 1841)",10.30111148,-84.69973932,Costa Rica,Guanacaste Prov,San Ramón,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 25645,"Caluromys derbianus (Waterhouse, 1841)",9.951450329,-84.505224,Costa Rica,Alajuela Prov,San Mateo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 25591,"Caluromys derbianus (Waterhouse, 1841)",8.64420291,-82.97785558,Costa Rica,Puntarenas Prov,Corredores,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 26697,"Caluromys derbianus (Waterhouse, 1841)",9.516667,-84.316666,Costa Rica,Puntarenas Prov,Parrita,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Michigan State University Mammalogy,MSU MR.32631,"Caluromys derbianus (Waterhouse, 1841)",0.05,-78.233,Ecuador,Pichincha,Pedro Moncayo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museum of Texas Tech University,TTU 13508,"Caluromys derbianus (Waterhouse, 1841)",11.4957,-85.830276,Nicaragua,Rivas,Buenos Aires,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museum of Texas Tech University,TTU 12603,"Caluromys derbianus (Waterhouse, 1841)",12.15833,-84.086922,Nicaragua,Zelaya,El Rama,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museum of Texas Tech University,TTU 12606-12608,"Caluromys derbianus (Waterhouse, 1841)",11.32274,-85.866669,Nicaragua,Rivas,Tola,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museum of Texas Tech University,TTU 9344,"Caluromys derbianus (Waterhouse, 1841)",12.12793,-86.166672,Nicaragua,Managua,Managua,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 610883,"Caluromys derbianus (Waterhouse, 1841)",10.603139,-83.533044,Costa Rica,Limón,Pococí,,,https://www.inaturalist.org/observations/610883
+PRESERVED_SPECIMEN,Database,Moore Laboratory of Zoology,MLZ 217-217,"Caluromys derbianus (Waterhouse, 1841)",18.678069,-96.772098,México,Veracruz,Tezonapa,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Mammals housed at MHNG, Geneva",MHNG-MAM-1018.048,"Caluromys derbianus (Waterhouse, 1841)",8.5,-80.8,Panamá,,Calobre,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Mammals housed at MHNG, Geneva",MHNG-MAM-1113.021-1113.022,"Caluromys derbianus (Waterhouse, 1841)",-0.25473,-79.17281,Ecuador,,Santo Domingo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Ohio State University Tetrapod Division - Mammal Collection (OSUM),OSUM Mammals 2122-2125,"Caluromys derbianus (Waterhouse, 1841)",9.2838,-79.4753,Panamá,,Panamá,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 164645,"Caluromys derbianus (Waterhouse, 1841)",10.4319061,-84.01112357,Costa Rica,Heredia,Sarapiquí,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 164643,"Caluromys derbianus (Waterhouse, 1841)",10.43780579,-84.00972355,Costa Rica,Heredia,Sarapiquí,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 157578-157580,"Caluromys derbianus (Waterhouse, 1841)",10.3110377,-84.81446302,Costa Rica,Puntarenas,Puntarenas,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,"KU 114603-114605, 116700-116701","Caluromys derbianus (Waterhouse, 1841)",12.12894272,-86.16644768,Nicaragua,Managua,Managua,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 114590,"Caluromys derbianus (Waterhouse, 1841)",12.58253058,-85.53990402,Nicaragua,Boaco,Boaco,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 114571-114589,"Caluromys derbianus (Waterhouse, 1841)",12.67182545,-85.77992984,Nicaragua,Matagalpa,Esquipulas,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,"KU 114606-114608, 110665-110681","Caluromys derbianus (Waterhouse, 1841)",11.8838652,-86.27722973,Nicaragua,Carazo,San Marcos,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 114592-114602,"Caluromys derbianus (Waterhouse, 1841)",12.34750248,-85.6594863,Nicaragua,Boaco,San Lorenzo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 114591,"Caluromys derbianus (Waterhouse, 1841)",12.41675,-85.84,Nicaragua,Boaco,Teustepe,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 110682-110685,"Caluromys derbianus (Waterhouse, 1841)",12.62015867,-85.52226369,Nicaragua,Boaco,Boaco,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 110663-110664,"Caluromys derbianus (Waterhouse, 1841)",12.14900168,-86.16644773,Nicaragua,Managua,Managua,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 110661,"Caluromys derbianus (Waterhouse, 1841)",12.55070866,-87.1753623,Nicaragua,Chinandega,El Realejo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 108164-108167,"Caluromys derbianus (Waterhouse, 1841)",11.75659232,-86.05283419,Nicaragua,Granada,Nandaime,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 105909-105910,"Caluromys derbianus (Waterhouse, 1841)",11.3188359,-85.70587508,Nicaragua,Rivas,Lago de Nicaragua,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 105905-105907,"Caluromys derbianus (Waterhouse, 1841)",11.81252956,-85.98092263,Nicaragua,Granada,Granada,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 105904,"Caluromys derbianus (Waterhouse, 1841)",12.73333,-87.05,Nicaragua,Chinandega,Chinandega,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 105902-105903,"Caluromys derbianus (Waterhouse, 1841)",12.66765312,-86.94979727,Nicaragua,Chinandega,Chichigalpa,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 105901,"Caluromys derbianus (Waterhouse, 1841)",12.17159246,-84.31805153,Nicaragua,Zelaya,El Rama,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 104503,"Caluromys derbianus (Waterhouse, 1841)",12.16135677,-86.28714159,Nicaragua,Managua,Lago de Managua,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 97390,"Caluromys derbianus (Waterhouse, 1841)",11.27712,-85.66997,Nicaragua,Rivas,Lago de Nicaragua,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 97389,"Caluromys derbianus (Waterhouse, 1841)",11.3662233,-85.76589659,Nicaragua,Rivas,Tola,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,"KU 96201-96218, 97358-97388","Caluromys derbianus (Waterhouse, 1841)",12.16510084,-86.16644777,Nicaragua,Managua,Lago de Managua,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 93192,"Caluromys derbianus (Waterhouse, 1841)",18.0151547,-89.44125778,México,Campeche,Champotón,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 70162-70163,"Caluromys derbianus (Waterhouse, 1841)",12.04101723,-86.18977803,Nicaragua,Masaya,Nindirí,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 70160-70161,"Caluromys derbianus (Waterhouse, 1841)",12.07573525,-86.27317006,Nicaragua,Managua,Managua,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 70159,"Caluromys derbianus (Waterhouse, 1841)",12.10732352,-86.31499112,Nicaragua,Managua,Managua,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 70158,"Caluromys derbianus (Waterhouse, 1841)",12.117613,-86.30454089,Nicaragua,Managua,Managua,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 70157,"Caluromys derbianus (Waterhouse, 1841)",12.86953,-85.73813,Nicaragua,Matagalpa,San Ramón,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 70156,"Caluromys derbianus (Waterhouse, 1841)",12.92803094,-85.91711463,Nicaragua,Matagalpa,Matagalpa,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,"KU 39247, 60446-60447","Caluromys derbianus (Waterhouse, 1841)",9.760971252,-84.11022438,Costa Rica,San jose,Aserrí,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 32052,"Caluromys derbianus (Waterhouse, 1841)",17.50183302,-94.83805182,México,Veracruz,Jesús Carranza,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 26926-26927,"Caluromys derbianus (Waterhouse, 1841)",9.86804,-83.6511,Costa Rica,Cartago,Turrialba,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,"KU 23373, 24883-24884","Caluromys derbianus (Waterhouse, 1841)",17.43239242,-94.82249525,México,Veracruz,Jesús Carranza,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 23367-23372,"Caluromys derbianus (Waterhouse, 1841)",18.45039761,-95.18167378,México,Veracruz,San Andrés Tuxtla,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Texas A&M University Biodiversity Research and Teaching Collections,"TCWC 48519, 18561","Caluromys derbianus (Waterhouse, 1841)",15.137498,-87.155848,Honduras,Yoro,Yoro,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Texas A&M University Biodiversity Research and Teaching Collections,TCWC 18560,"Caluromys derbianus (Waterhouse, 1841)",15.05532,-85.635763,Honduras,Olancho,Dulce Nombre de Culmí,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Texas A&M University Biodiversity Research and Teaching Collections,TCWC 18559,"Caluromys derbianus (Waterhouse, 1841)",14.213229,-88.716667,Honduras,Santa Bárbara,Tomalá,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Texas A&M University Biodiversity Research and Teaching Collections,TCWC 10594-10595,"Caluromys derbianus (Waterhouse, 1841)",12.710858,-86.102931,Nicaragua,Matagalpa,Ciudad Darío,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Texas A&M University Biodiversity Research and Teaching Collections,TCWC 10593,"Caluromys derbianus (Waterhouse, 1841)",8.689107,-83.04365,Costa Rica,Puntarenas,Golfito,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Texas A&M University Biodiversity Research and Teaching Collections,TCWC 10592,"Caluromys derbianus (Waterhouse, 1841)",8.233298,-81.805892,Panamá,Chiriquí,Remedios,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 128385,"Caluromys derbianus (Waterhouse, 1841)",10.43333,-84,Costa Rica,Heredia,Sarapiquí,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 63886,"Caluromys derbianus (Waterhouse, 1841)",17.98333,-88.466667,Belice,Toledo Dist,,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 53529,"Caluromys derbianus (Waterhouse, 1841)",0.816667,-78.349998,Ecuador,Imbabura,Mira,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 35167,"Caluromys derbianus (Waterhouse, 1841)",9.933333,-84.033333,Costa Rica,San Jose,Curridabat,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 30728-30729,"Caluromys derbianus (Waterhouse, 1841)",9.33333,-79.916672,Panamá,vanal Zone,,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 6,"Caluromys derbianus (Waterhouse, 1841)",15.433333,-88.016666,Honduras,Cortes,San Pedro Sula,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University","MCZ 27461-27462, 26397","Caluromys derbianus (Waterhouse, 1841)",9.365,-79.958611,Panamá,,Colón,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University","MCZ 20838, 21715","Caluromys derbianus (Waterhouse, 1841)",9.123994,-79.779166,Panamá,Colon/Panama,Lago Gatún,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University",MCZ 19809,"Caluromys derbianus (Waterhouse, 1841)",9.006655,-79.487024,Panamá,Panama,Panamá,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University",MCZ 39768,"Caluromys derbianus (Waterhouse, 1841)",21.766791,-100.458498,México,,Tierra Nueva,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University",MCZ 10092-10093,"Caluromys derbianus (Waterhouse, 1841)",8.401489,-82.69615,Panamá,Chiriqui Province,Alanje,,,GBIF.org
+OCCURRENCE,Database,Instituto de Biología de la Universidad Nacional Autónoma de México,IBUNAM 381,"Caluromys derbianus (Waterhouse, 1841)",18.46,-95.29,México,Veracruz,San Andrés Tuxtla,,,GBIF.org
+OCCURRENCE,Database,Instituto de Biología de la Universidad Nacional Autónoma de México,IBUNAM 377,"Caluromys derbianus (Waterhouse, 1841)",18.41,-95.11,México,Veracruz,Catemaco,,,GBIF.org
+OCCURRENCE,Database,Instituto de Biología de la Universidad Nacional Autónoma de México,IBUNAM 14,"Caluromys derbianus (Waterhouse, 1841)",18.58,-95.06,México,Veracruz,San Andrés Tuxtla,,,GBIF.org
+HUMAN_OBSERVATION,Database,Conservación Internacional,"Conservation International 9508, 53913","Caluromys derbianus (Waterhouse, 1841)",-1.333,-79.583,Ecuador,,Vinces,,,GBIF.org
+HUMAN_OBSERVATION,Database,Conservación Internacional,"Conservation International 17926, 56530","Caluromys derbianus (Waterhouse, 1841)",-1.567,-80.717,Ecuador,,Puerto López,,,GBIF.org
+HUMAN_OBSERVATION,Database,Conservación Internacional,Conservation International 11252,"Caluromys derbianus (Waterhouse, 1841)",-0.033,-79.967,Ecuador,,Pedernales,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Louisiana State University Museum of Natural Science,LSUMZ 17681,"Caluromys derbianus (Waterhouse, 1841)",-9.3,-75.983,Perú,Huánuco,Leoncio Prado,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Louisiana State University Museum of Natural Science,LSUMZ 15751,"Caluromys derbianus (Waterhouse, 1841)",9.933,-84.183,Costa Rica,San José Province,Santa Ana,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Louisiana State University Museum of Natural Science,LSUMZ 12634,"Caluromys derbianus (Waterhouse, 1841)",9.918134181,-83.5497117,Costa Rica,Cartago Province,Turrialba,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Louisiana State University Museum of Natural Science,LSUMZ 12633,"Caluromys derbianus (Waterhouse, 1841)",9.946,-84.196,Costa Rica,San José Province,Santa Ana,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Louisiana State University Museum of Natural Science,LSUMZ 11434,"Caluromys derbianus (Waterhouse, 1841)",9.683,-84.283,Costa Rica,San José Province,Acosta,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Louisiana State University Museum of Natural Science,LSUMZ 9337,"Caluromys derbianus (Waterhouse, 1841)",10.10112489,-83.38270822,Costa Rica,Limón,Matina,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Louisiana State University Museum of Natural Science,LSUMZ 8108,"Caluromys derbianus (Waterhouse, 1841)",17.98970701,-91.53591868,México,Tabasco,Balancán,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Louisiana State University Museum of Natural Science,"LSUMZ 7318, 7319, 8105-8107, 8109","Caluromys derbianus (Waterhouse, 1841)",17.54872472,-92.93795086,México,Tabasco,Teapa,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Louisiana State University Museum of Natural Science,LSUMZ 8104,"Caluromys derbianus (Waterhouse, 1841)",17.81171209,-92.9219512,México,Tabasco,Centro,,,GBIF.org
+PRESERVED_SPECIMEN,,,AMNH ----,"Caluromys derbianus (Waterhouse, 1841)",17.06861,-95.02556,México,Oaxaca,Dist. Juchitan,,,GBIF.org
+OCCURRENCE,Database,,IBUNAM 5826,"Caluromys derbianus (Waterhouse, 1841)",16.75278,-93.11667,México,Chiapas,Tuxtla Gutiérrez,,,GBIF.org
+PRESERVED_SPECIMEN,Database,,IBUNAM 34758,"Caluromys derbianus (Waterhouse, 1841)",16.11361,-91.08583,México,Chiapas,Ocosingo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,,TCWC-TAMU 18559,"Caluromys derbianus (Waterhouse, 1841)",14.987,-88.2356,Honduras,Santa barbara,San José de Colinas,,,GBIF.org
+PRESERVED_SPECIMEN,Database,,TCWC-TAMU 10594,"Caluromys derbianus (Waterhouse, 1841)",12.7035,-86.107,Nicaragua,Matagalpa,Ciudad Darío,,,GBIF.org
+PRESERVED_SPECIMEN,Database,,KU 114591,"Caluromys derbianus (Waterhouse, 1841)",12.41675,-85.84,Nicaragua,Boaco,Teustepe,,,GBIF.org
+PRESERVED_SPECIMEN,Database,,KU 97390,"Caluromys derbianus (Waterhouse, 1841)",11.27,-85.66,Nicaragua,Rivas,Lago de Nicaragua,,,GBIF.org
+PRESERVED_SPECIMEN,Database,,KU 105901,"Caluromys derbianus (Waterhouse, 1841)",12.1743,-84.3105,Nicaragua,Atlantico sur,El Rama,,,GBIF.org
+PRESERVED_SPECIMEN,Database,,TCWC-TAMU 10592,"Caluromys derbianus (Waterhouse, 1841)",8.2263,-81.7846,Panamá,Chiriquí,Remedios,,,GBIF.org
+PRESERVED_SPECIMEN,Database,,MSU MR.22836,"Caluromys derbianus (Waterhouse, 1841)",8.95,-79.62123,Panamá,Panama,Arraiján,,,GBIF.org
+PRESERVED_SPECIMEN,Database,,MVZ 135232,"Caluromys derbianus (Waterhouse, 1841)",8.96667,-79.53333,Panamá,Panama,Panamá,,,GBIF.org
+PRESERVED_SPECIMEN,Database,,NYSM 15212,"Caluromys derbianus (Waterhouse, 1841)",9.1556,-78.8485,Panamá,Panamá,La Chorrera,,,GBIF.org
+PRESERVED_SPECIMEN,Literature,,"FMNH 69800, 69801, 69802, 69803, 69804;","Caluromys derbianus (Waterhouse, 1841)",6,-77,Colombia,Chocó,Unguia,,,Fonseca and Astúa (2015)
+PRESERVED_SPECIMEN,Database,,,"Caluromys derbianus (Waterhouse, 1841)",18.025,-89.558333,México,Campeche,Champotón,,,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:REUBICACION-FAUNA-CHS2013:4019-2013:4020,"Caluromys lanatus (Olfers, 1818)",7.054083,-73.381111,Colombia,Santander,Betulia,,,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:REUBICACION-FAUNA-CHS2013:1512,"Caluromys lanatus (Olfers, 1818)",7.077306,-73.359389,Colombia,Santander,Girón,,,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:REUBICACION-FAUNA-CHS2013:1467,"Caluromys lanatus (Olfers, 1818)",7.096694,-73.384556,Colombia,Santander,Girón,,,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:MUESTREO-FAUNA-CHS2013:961,"Caluromys lanatus (Olfers, 1818)",7.076806,-73.398222,Colombia,Santander,Betulia,"Sogamoso, Quebrada La chafarota",,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:MUESTREO-FAUNA-CHS2018:14656,"Caluromys lanatus (Olfers, 1818)",7.091083,-73.374722,Colombia,Santander,Girón,"Sogamoso, MataCacao",,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:MUESTREO-FAUNA-CHS2018:14636,"Caluromys lanatus (Olfers, 1818)",7.083194,-73.367889,Colombia,Santander,Girón,"Sogamoso, MataCacao",,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:REUBICACION-FAUNA-CHS2013:3169,"Caluromys lanatus (Olfers, 1818)",7.077,-73.3635,Colombia,Santander,Girón,,,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:MUESTREO-FAUNA-CHS2018:14550,"Caluromys lanatus (Olfers, 1818)",7.011028,-73.397444,Colombia,Santander,Betulia,"25 de Agosto, Maquina-Resumidero",,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:MUESTREO-FAUNA-CHS2018:14578,"Caluromys lanatus (Olfers, 1818)",7.099306,-73.420306,Colombia,Santander,Betulia,La Cabezonera,,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,"ISAGEN:REUBICACION-FAUNA-CHS2013:4164, 2013:4240","Caluromys lanatus (Olfers, 1818)",6.991762,-73.374575,Colombia,Santander,Zapatoca,,,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:MUESTREO-FAUNA-CHS2018:14799,"Caluromys lanatus (Olfers, 1818)",7.003417,-73.392583,Colombia,Santander,Betulia,"25 de Agosto, Maquina-Resumidero",,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:REUBICACION-FAUNA-CHS2013:5470,"Caluromys lanatus (Olfers, 1818)",7.074278,-73.345,Colombia,Santander,Girón,,,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:REUBICACION-FAUNA-CHS2013:6699,"Caluromys lanatus (Olfers, 1818)",7.043306,-73.354778,Colombia,Santander,Betulia,,,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:REUBICACION-FAUNA-CHS2013:6353,"Caluromys lanatus (Olfers, 1818)",7.077583,-73.345111,Colombia,Santander,Girón,,,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:REUBICACION-FAUNA-CHS2013:7655,"Caluromys lanatus (Olfers, 1818)",7.047083,-73.35275,Colombia,Santander,Betulia,,,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:MUESTREO-FAUNA-CHS2016:13254,"Caluromys lanatus (Olfers, 1818)",7.071528,-73.520806,Colombia,Santander,Betulia,"La Putana, Quebrada La Putana",,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:MUESTREO-FAUNA-CHS2016:13662,"Caluromys lanatus (Olfers, 1818)",7.0935,-73.385083,Colombia,Santander,Girón,"Caño Peroles, Quebrada Santa Maria",,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:REUBICACION-FAUNA-CHS2013:4657,"Caluromys lanatus (Olfers, 1818)",7.074639,-73.344583,Colombia,Santander,Girón,,,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,"ISAGEN:REUBICACION-FAUNA-CHS2013:5909, 2013:5886","Caluromys lanatus (Olfers, 1818)",7.063722,-73.383028,Colombia,Santander,Betulia,,,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:MUESTREO-FAUNA-CHS2018:14430,"Caluromys lanatus (Olfers, 1818)",7.107861,-73.316444,Colombia,Santander,Girón,"La Parroquia, Aguablanca",,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:MUESTREO-FAUNA-CHS2018:14453,"Caluromys lanatus (Olfers, 1818)",6.978639,-73.335778,Colombia,Santander,Betulia,"Peña morada, El Ramo",,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:MUESTREO-FAUNA-CHS2018:14364,"Caluromys lanatus (Olfers, 1818)",7.10325,-73.428139,Colombia,Santander,Betulia,La Cabezonera,,GBIF.org
+MACHINE_OBSERVATION,Database,Corpoamazonía,"Corpoamazonia:PTO_ASIS-0608:32021, 0608:32024","Caluromys lanatus (Olfers, 1818)",0.38004,-76.63178,Colombia,Putumayo,Puerto Asís,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Colección de mamíferos Museo de Ciencias Naturales de La Salle,ITM:CSJ-m:0240,"Caluromys lanatus (Olfers, 1818)",7.29,-75.351389,Colombia,Antioquia,,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de La Salle,LaSalle:MLS-mam:1549,"Caluromys lanatus (Olfers, 1818)",5.656721,-74.182491,Colombia,Boyacá,Otanche,Otanche,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de La Salle,LaSalle:MLS-mam:221,"Caluromys lanatus (Olfers, 1818)",2.927299,-75.281885,Colombia,Huila,Neiva,Neiva,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de La Salle,LaSalle:MLS-mam:220,"Caluromys lanatus (Olfers, 1818)",4.847777,-74.621479,Colombia,Cundinamarca,San Juan de Rioseco,San Juan De Rioseco,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de La Salle,"LaSalle:MLS-mam:580, 1831","Caluromys lanatus (Olfers, 1818)",4.963826,-74.434845,Colombia,Cundinamarca,Sasaima,Sasaima,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de La Salle,LaSalle:MLS-mam:1442,"Caluromys lanatus (Olfers, 1818)",4.204748,-74.640746,Colombia,Tolima,Melgar,Melgar,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de La Salle,LaSalle:MLS-mam:2245,"Caluromys lanatus (Olfers, 1818)",1.614382,-75.606229,Colombia,Caquetá,Florencia,Florencia,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de La Salle,LaSalle:MLS-mam:1762,"Caluromys lanatus (Olfers, 1818)",4.149245,-74.884292,Colombia,Tolima,Espinal,Espinal,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de La Salle,LaSalle:MLS-mam:369,"Caluromys lanatus (Olfers, 1818)",3.858705,-74.931288,Colombia,Tolima,Purificación,Purificacion,,GBIF.org
+PRESERVED_SPECIMEN,Database,Colección Mastozoológica de la Universidad Industrial de Santander,UIS-MHN-M-1730,"Caluromys lanatus (Olfers, 1818)",7.059778,-74.198472,Colombia,Bolívar,Cantagallo,"Finca la Bufalera, Vereda Santo Domingo, Cantagallo, Bolívar",,GBIF.org
+PRESERVED_SPECIMEN,Database,Colección Mastozoológica de la Universidad Industrial de Santander,UIS-MHN-M-1740,"Caluromys lanatus (Olfers, 1818)",7.058722,-74.199666,Colombia,Bolívar,Cantagallo,"Finca la Bufalera, Vereda Santo Domingo, Cantagallo, Bolívar",,GBIF.org
+HUMAN_OBSERVATION,Database,Promigas,Paiva-Caracoli_Fauna:209,"Caluromys lanatus (Olfers, 1818)",10.566896,-75.295444,Colombia,Bolívar,Clemencia,"Buenos Aires, Las Brisas",,GBIF.org
+HUMAN_OBSERVATION,Database,Promigas,Paiva-Caracoli_Fauna:72,"Caluromys lanatus (Olfers, 1818)",10.686262,-75.06335,Colombia,Atlántico,Piojó,"Las Mercedes, El Triunfo Parcela 36",,GBIF.org
+PRESERVED_SPECIMEN,Database,Colección de Mamíferos del Museo de Historia Natural de la Universidad de la Amazonia (UAM-M),"uniamazonia:UAM-M-341, 599","Caluromys lanatus (Olfers, 1818)",1.611283,-75.613647,Colombia,Caquetá,Florencia,"Vereda Balcanes, Granja Experimental Balcanes",,GBIF.org
+PRESERVED_SPECIMEN,Database,Colección Mastozoológica-Museo de Historia Natural Unillanos,MHNU-M 042,"Caluromys lanatus (Olfers, 1818)",4.526861,-71.787833,Colombia,Meta,Puerto Gaitán,"Hacienda Yamato, Finca Mitimiti",,GBIF.org
+HUMAN_OBSERVATION,Citizen science,,,"Caluromys lanatus (Olfers, 1818)",8.296563,-75.636869,Colombia,Córdoba,Planeta Rica,Marañonal,,Heyda Macea
+PRESERVED_SPECIMEN,Biological collection,Colección de mamíferos del Museo de Historia Natural de la Pontificia Universidad Javeriana,MPUJ_MAMM 13,"Caluromys lanatus (Olfers, 1818)",4.594624,-74.342866,Colombia,Cundinamarca,San Antonio del Tequendama,"Corregimiento Santandercito, Corregimiento Santandercito",,This study
+MATERIAL_SAMPLE,Database,BoldSystems,MACAU001-19,"Caluromys lanatus (Olfers, 1818)",8.03022,-75.2175,Colombia,Antioquia,,"Caucasia, A 300 kilometros de Medellin sobre la via que conduce de Caucasia al municipio de Nechi (Antioquia), Hacienda La Candelaria Universidad de Antioquia",,GBIF.org
+MACHINE_OBSERVATION,Database,,,"Caluromys lanatus (Olfers, 1818)",3.5238,-73.415278,Colombia,Meta,San Martín,"La Union, Banco de Hábitat del Meta",,GBIF.org
+PRESERVED_SPECIMEN,Database,Universidad de Pamplona,CFNS:UdeP:ZOO:2018:67,"Caluromys lanatus (Olfers, 1818)",8.038147,-72.847775,Colombia,Norte de Santander,Bucarasica,Carretrera entre Bucarasica y Altamira,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de Historia Natural de la Universidad del Cauca,MHNUCA:Mammal:1447,"Caluromys lanatus (Olfers, 1818)",5.319944,-74.925556,Colombia,Caldas,Victoria,Via Samaná- Victoria,,GBIF.org
+PRESERVED_SPECIMEN,Database,Museo de Historia Natural de la Universidad del Cauca,MHNUCA:Mammal:1043,"Caluromys lanatus (Olfers, 1818)",5.333333,-74.733333,Colombia,Caldas,La Dorada,Vereda Guarinocito,,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Ciencias Naturales de la Universidad Nacional de Colombia,ICN 12881,"Caluromys lanatus (Olfers, 1818)",4.288079,-74.706032,Colombia,Cundinamarca,Ricaurte,Vereda El Callejon.,,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Ciencias Naturales de la Universidad Nacional de Colombia,"ICN 12572, 12573, 12584","Caluromys lanatus (Olfers, 1818)",4.290378,-74.708931,Colombia,Cundinamarca,Ricaurte,Vereda Callejon.,,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Ciencias Naturales de la Universidad Nacional de Colombia,ICN 11632,"Caluromys lanatus (Olfers, 1818)",3.124918,-73.752422,Colombia,Meta,Vistahermosa,"Meta, Municipio de Vistahermosa.",,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Ciencias Naturales de la Universidad Nacional de Colombia,ICN 1424,"Caluromys lanatus (Olfers, 1818)",4.14596,-73.63479,Colombia,Meta,Villavicencio,Criadero del Instituto Roberto Franco.,,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Ciencias Naturales de la Universidad Nacional de Colombia,ICN 1425,"Caluromys lanatus (Olfers, 1818)",4.261764,-73.564367,Colombia,Meta,Restrepo,,,GBIF.org
+MACHINE_OBSERVATION,Database,ProCAT,ProCAT PCT:CT54,"Caluromys lanatus (Olfers, 1818)",8.330778,-74.43825,Colombia,Bolívar,Montecristo,,,GBIF.org
+MACHINE_OBSERVATION,Database,ProCAT,ProCAT PCT:CT50,"Caluromys lanatus (Olfers, 1818)",8.323472,-74.437417,Colombia,Bolívar,Montecristo,La Concepción,,GBIF.org
+MACHINE_OBSERVATION,Database,ProCAT,ProCAT PCT:CT1,"Caluromys lanatus (Olfers, 1818)",7.810722,-74.261889,Colombia,Bolívar,Santa Rosa del Sur,Cerro pechuga,,GBIF.org
+MACHINE_OBSERVATION,Database,ProCAT,ProCAT PCT:CT29,"Caluromys lanatus (Olfers, 1818)",8.264083,-74.4835,Colombia,Bolívar,Montecristo,P. Lindo,,GBIF.org
+PRESERVED_SPECIMEN,Database,Colección de mamíferos de la Universidad del Valle,UV 14972,"Caluromys lanatus (Olfers, 1818)",5.343025,-74.737872,Colombia,Caldas,La Dorada,"Hacienda La Española, Corregimiento Guarinocito",,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University",MCZ BOM-6352,"Caluromys lanatus (Olfers, 1818)",3.982707,-71.58325,Colombia,Meta,,[no specific locality data],,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Ciencias Naturales de la Universidad Nacional de Colombia,"ICN 4417, 4419","Caluromys lanatus (Olfers, 1818)",4.07903,-73.7039,Colombia,Meta,Villavicencio,"Carretera a San Martin, rio Ocoa.",,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Ciencias Naturales de la Universidad Nacional de Colombia,"ICN 1648, 1651, 1653, 1654","Caluromys lanatus (Olfers, 1818)",4.0958,-73.4814,Colombia,Meta,Villavicencio,Meta:  Villavicencio,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley","MVZ:Mamm:114223-114227, 113831-113832","Caluromys lanatus (Olfers, 1818)",3.333333,-75.183333,Colombia,Huila,,1 km S Villavieja,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,LACM 27374,"Caluromys lanatus (Olfers, 1818)",9.13778,-73.56694,Colombia,Magdalena,,San Alberto San Alberto,,GBIF.org
+PRESERVED_SPECIMEN,Database,Natural History Museum of Los Angeles County,"LACM 56164, 56164","Caluromys lanatus (Olfers, 1818)",4,-72,Colombia,Meta,,Colombia,,GBIF.org
+PRESERVED_SPECIMEN,Database,Colección Mastozoológica de la Universidad Industrial de Santander,UIS-MHN-M-0212,"Caluromys lanatus (Olfers, 1818)",6.888493,-73.544042,Colombia,Santander,San Vicente de Chucurí,"San Vicente de Chucurí, Santander",,GBIF.org
+PRESERVED_SPECIMEN,Database,Colección Mastozoológica de la Universidad Industrial de Santander,UIS-MHN-M-0091,"Caluromys lanatus (Olfers, 1818)",7.36844,-73.69896,Colombia,Santander,,Puerto Wilches-Sabana de Torres,,GBIF.org
+PRESERVED_SPECIMEN,Database,Colección Mastozoológica de la Universidad Industrial de Santander,UIS-MHN-M-0007,"Caluromys lanatus (Olfers, 1818)",8.252517,-73.61776,Colombia,Cesar,Aguachica,"RÍO CÁCHIRA, Aguachica, Cesar",,GBIF.org
+PRESERVED_SPECIMEN,Database,"Mammals housed at MHNG, Geneva","MHNG-MAM 1118.092, 1118.093","Caluromys lanatus (Olfers, 1818)",0.46711,-76.95022,Colombia,Putumayo,,"Santa Rosa de Los Kofanes, 2 km avant San Antonio del Guamues",,GBIF.org
+HUMAN_OBSERVATION,Database,Corantioquia,Corantioquia-4755-C5A0D9B96EA3469F83540A19E9AD2F03,"Caluromys lanatus (Olfers, 1818)",6.56,-74.79,Colombia,Antioquia,Maceo,,,GBIF.org
+HUMAN_OBSERVATION,Database,Corantioquia,Corantioquia-4755-AB4028E271224B1B8CC1F27C4C36C9D8,"Caluromys lanatus (Olfers, 1818)",7.07,-75.15,Colombia,Antioquia,Anorí,,,GBIF.org
+HUMAN_OBSERVATION,Database,Corantioquia,Corantioquia-4755-A39CF07F7E5249B69F008AE936D8A1E4,"Caluromys lanatus (Olfers, 1818)",6.18,-74.58,Colombia,Antioquia,Puerto Nare,,,GBIF.org
+HUMAN_OBSERVATION,Database,Corantioquia,Corantioquia-4755-9BD211022C1141BC9B331AE6C1D4B31F,"Caluromys lanatus (Olfers, 1818)",6.5,-74.71,Colombia,Antioquia,Puerto Berrío,,,GBIF.org
+HUMAN_OBSERVATION,Database,Corantioquia,Corantioquia-4755-99ABA9DFACE346B59716F008A3A92D66,"Caluromys lanatus (Olfers, 1818)",7.5,-74.87,Colombia,Antioquia,Zaragoza,,,GBIF.org
+HUMAN_OBSERVATION,Database,Corantioquia,Corantioquia-4755-8774214D47DC46ECB97D2BABF5B78BEC,"Caluromys lanatus (Olfers, 1818)",6.42,-74.77,Colombia,Antioquia,Caracolí,,,GBIF.org
+HUMAN_OBSERVATION,Database,Corantioquia,Corantioquia-4755-5BE1B30E6B7F47DEBE89D0C11836B3D6,"Caluromys lanatus (Olfers, 1818)",6.91,-75.07,Colombia,Antioquia,Amalfi,,,GBIF.org
+HUMAN_OBSERVATION,Database,Corantioquia,Corantioquia-4755-21A6533F47E2465AB997F8C7631FB7DD,"Caluromys lanatus (Olfers, 1818)",6.6,-75.02,Colombia,Antioquia,Yolombó,,,GBIF.org
+HUMAN_OBSERVATION,Database,ISAGEN SA ESP,ISAGEN:46-2978:SANCARLOS:2009:MAMIFEROS:0151,"Caluromys lanatus (Olfers, 1818)",6.19325,-74.809167,Colombia,Antioquia,San Carlos,"vereda El Cinco, La almenara",,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 87928-87930,"Caluromys lanatus (Olfers, 1818)",3.283333,-73.883333,Colombia,Meta,Villavicencio,"San Juan de Arama, Los Micos",,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,"FMNH 70995, 70996","Caluromys lanatus (Olfers, 1818)",5.533333,-74.1,Colombia,Boyacá,Muzo,Muzo,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 70994,"Caluromys lanatus (Olfers, 1818)",1.85,-76.033333,Colombia,Huila,,Pitalito,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 140240,"Caluromys lanatus (Olfers, 1818)",7.997178,-72.877228,Colombia,Norte de Santander,,"Rio Zulia, W of Cucuta",,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,"FMNH 140237, 140238","Caluromys lanatus (Olfers, 1818)",7.9,-72.566667,Colombia,Norte de Santander,,"Arboledas, W of Cucuta",,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University",MCZ:Mamm:43452,"Caluromys lanatus (Olfers, 1818)",4.157878,-73.625516,Colombia,Meta,,Villavicencio,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University","MCZ:Mamm:27209, 27211, 27212","Caluromys lanatus (Olfers, 1818)",4.416667,-74.4,Colombia,Cundinamarca,,Fusagasuga,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University",MCZ:Mamm:BANGS-8115-8116,"Caluromys lanatus (Olfers, 1818)",8.169386,-72.366823,Colombia,Norte de Santander,,Pueblo Viego [VERBATIM ELEVATION:8000],,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University",MCZ:Mamm:BANGS-8036,"Caluromys lanatus (Olfers, 1818)",10.8284,-73.6925,Colombia,Magdalena,,Santa Marta Mountains,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University",MCZ:Mamm:BANGS-8247,"Caluromys lanatus (Olfers, 1818)",11.035672,-73.646899,Colombia,Magdalena,,Palomina,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University",MCZ:Mamm:BANGS-8114,"Caluromys lanatus (Olfers, 1818)",10.989567,-74.275177,Colombia,Magdalena,,"Santa Marta Mountains, Pueblo Viejo [VERBATIM ELEVATION:2440]",,GBIF.org
+HUMAN_OBSERVATION,Citizen science,,,"Caluromys lanatus (Olfers, 1818)",7.975127,-75.420529,Colombia,Córdoba,Montelibano,"vía los estudiantes, estación de servicio de gasolina",crops,Santiago Torres
+OCCURRENCE,Literature,,,"Caluromys lanatus (Olfers, 1818)",7.883333,-73.383333,Colombia,Cesar,San Alberto,Cerrania de la Perija,,Muñoz-Saba (2009)
+OCCURRENCE,Literature,,,"Caluromys lanatus (Olfers, 1818)",11.766667,-72.45,Colombia,La Guajira,Manaure,Region Caribe,,Rangel et al. (2012)
+OCCURRENCE,Literature,,,"Caluromys lanatus (Olfers, 1818)",11.15,-72.583333,Colombia,La Guajira,Albania,Region Caribe,,Rangel et al. (2012)
+OCCURRENCE,Literature,,,"Caluromys lanatus (Olfers, 1818)",9.416667,-73.333333,Colombia,Cesar,Jagua De Ibirico,Region Caribe,,Rangel et al. (2012)
+OCCURRENCE,Literature,,,"Caluromys lanatus (Olfers, 1818)",10.475069,-73.074806,Colombia,La Guajira,Sin especificar,Vereda Velas del Maquezote,,García Rincón (2013)
+OCCURRENCE,Literature,,,"Caluromys lanatus (Olfers, 1818)",10.9887684,-74.5844672,Colombia,Magdalena,Pueblo viejo,Via Parque isla Salamanca,,UAESPNN (2004)
+HUMAN_OBSERVATION,Literature,,,"Caluromys lanatus (Olfers, 1818)",4.216111111,-74.68527778,Colombia,Cundinamarca,Nilo,Parque Recreativo y Zoológico Piscilago,,Morales and Sarmiento (2008)
+PRESERVED_SPECIMEN,Literature,Field Museum of Natural History,"USNM 541855, 541856;","Caluromys lanatus (Olfers, 1818)",1.75,-76.17,Colombia,Huila,,Valle del Suaza,,Fonseca and Astua (2015)
+PRESERVED_SPECIMEN,Literature,American Museum of Natural History,"AMNH 75886, 76768, 76769","Caluromys lanatus (Olfers, 1818)",3.58,-75.08,Colombia,Huila,Natagaima,,,Fonseca and Astua (2015)
+PRESERVED_SPECIMEN,Literature,"Smithsonian Institution, National Museum of Natural History","USNM 271317, 280900, 280906","Caluromys lanatus (Olfers, 1818)",10,-74.5,Colombia,Magdalena,,,,Fonseca and Astua (2015)
+PRESERVED_SPECIMEN,Literature,"Smithsonian Institution, National Museum of Natural History","USNM 544394, 544395","Caluromys lanatus (Olfers, 1818)",4.97,-74.43,Colombia,Cundinamarca,,,,Fonseca and Astua (2015)
+PRESERVED_SPECIMEN,Literature,American Museum of Natural History,AMNH 143522,"Caluromys lanatus (Olfers, 1818)",4.6,-74.08,Colombia,Cundinamarca,Bogotá,VolcanesTupana,,Fonseca and Astua (2015)
+PRESERVED_SPECIMEN,Literature,Field Museum of Natural History,FMNH 87931,"Caluromys lanatus (Olfers, 1818)",2.75,-73.916667,Colombia,Meta,Villavicencio,"La Macarena Parque, Rio Guapaya",,Fonseca and Astua (2015)
+PRESERVED_SPECIMEN,Literature,Field Museum of Natural History,FMNH 87927,"Caluromys lanatus (Olfers, 1818)",3.4,-73.82,Colombia,Meta,Villavicencio,"San Juan de Arama, Los Micos",,Fonseca and Astua (2015)
+PRESERVED_SPECIMEN,Literature,"Smithsonian Institution, National Museum of Natural History","USNM 280903, 280904, 280907","Caluromys lanatus (Olfers, 1818)",10.42,-73.58,Colombia,Cesar,Pueblo Bello,,,Fonseca and Astua (2015)
+PRESERVED_SPECIMEN,Literature,American Museum of Natural History,AMNH 136161,"Caluromys lanatus (Olfers, 1818)",4.25,-73.57,Colombia,Meta,Restrepo,,,Fonseca and Astua (2015)
+PRESERVED_SPECIMEN,Literature,"Smithsonian Institution, National Museum of Natural History",USNM 544393,"Caluromys lanatus (Olfers, 1818)",7.3,-72.25,Colombia,Norte de Santander,Toledo,,,Fonseca and Astua (2015)
+PRESERVED_SPECIMEN,Literature,American Museum of Natural History,"AMNH 78101, MZUSP 2529","Caluromys lanatus (Olfers, 1818)",1,-73.8,Colombia,Caquetá,Merida,,,Fonseca and Astua (2015)
+OCCURRENCE,Literature,,,"Caluromys lanatus (Olfers, 1818)",5.368333333,-74.79316667,Colombia,Caldas,La Victoria- La Dorada,Hacienda la española,,Garcés Retrepo et al. (2016)
+OCCURRENCE,Literature,"Mammals housed at MHNG, Geneva",MHNG 1118.92-1118.093,"Caluromys lanatus (Olfers, 1818)",0.56148,-76.83098,Colombia,Putumayo,Mocoa,Santa Rosa de Los Kofanes a 2 km de  San Antonio del Guamués ,,Ramírez-Chaves et al. (2013)
+PRESERVED_SPECIMEN,Literature,"Smithsonian Institution, National Museum of Natural History","USNM 1929-651, 1929-652, 1929-658","Caluromys lanatus (Olfers, 1818)",2.70418,-75.98359,Colombia,Cauca,,El Guamo,,López-Fuster et al. (2008)
+PRESERVED_SPECIMEN,Literature,"Smithsonian Institution, National Museum of Natural History",USNM 1932-29,"Caluromys lanatus (Olfers, 1818)",3.616666667,-75.08333333,Colombia,Tolima,Natagaima,,,López-Fuster et al. (2008)
+PRESERVED_SPECIMEN,Biological collection,Colección Zoológica de la Universidad de Córdoba,CZUC-M 0238,"Caluromys lanatus (Olfers, 1818)",8.50502,-75.507409,Colombia,Córdoba,Pueblo Nuevo,,Urban zone,This study
+PHOTOGRAPHY,Citizen science,,,"Caluromys lanatus (Olfers, 1818)",8.329036,-75.539022,Colombia,Córdoba,Planeta Rica,Los Mosquitos,"female, 22:00 h",Esteban Jaramillo
+HUMAN_OBSERVATION,Fieldwork,,,"Caluromys lanatus (Olfers, 1818)",9.52854,-73.4822,Colombia,Cesar,Becerril,"Mina La Loma Drummond Ltd, Caño Piedras",,This study
+PRESERVED_SPECIMEN,Database,Fundación Puerto Rastrojo - Colômbia,FPR-COLOMBIA 5739,"Caluromys lanatus (Olfers, 1818)",-0.614166667,-72.26666667,Colombia,Amazonas,Puerto Santander,Puerto Santander Río Caquetá,,speciesLink (http://www.splink.org.br)
+PRESERVED_SPECIMEN,Literature,Field Museum of Natural History,FMNH 140239,"Caluromys lanatus (Olfers, 1818)",6.55,-73.133334,Colombia,Santander,Barichara,San Gil,,Fonseca and Astua (2015)
+HUMAN_OBSERVATION,Citizen science,,,"Caluromys lanatus (Olfers, 1818)",8.414074,-74.799015,Colombia,Sucre,Guarandá,El Portón,,Gerson Salcedo
+HUMAN_OBSERVATION,Citizen science,,,"Caluromys lanatus (Olfers, 1818)",9.152597,-75.278731,Colombia,Sucre,Corozal,Las Llanadas,,Gerson Salcedo
+PHOTOGRAPHY,Literature,,,"Caluromys lanatus (Olfers, 1818)",11.289264,-73.910828,Colombia,Magdalena,,PNN Tayrona,,"Pineda-Guerrero, A., and Hernández, E. (2016)"
+HUMAN_OBSERVATION,Literature,,,"Caluromys lanatus (Olfers, 1818)",6.455241,-74.791239,Colombia,Antioquia,Maceo,Reserva Natural Hacienda San Pedro,,Sánchez-Londoño et al. (2020)
+PRESERVED_SPECIMEN,Literature,Colección Mastozoológica-Museo de Historia Natural Unillanos,MHNU-M 295,"Caluromys lanatus (Olfers, 1818)",4.072,-73.586,Colombia,Meta,Villavicencio,campus  de  la  Universidad  de  los  Llanos,,"Alfonso, C., and Sánchez, F. (2019)"
+HUMAN_OBSERVATION,Literature,,,"Caluromys lanatus (Olfers, 1818)",6.94193,-73.797479,Colombia,Santander,Barrancabermeja,,,Meza-Joya et al. (2020)
+HUMAN_OBSERVATION,Literature,,,"Caluromys lanatus (Olfers, 1818)",6.859338,-73.742081,Colombia,Santander,San Vicente de Chucurí,,,Meza-Joya et al. (2020)
+HUMAN_OBSERVATION,Literature,,,"Caluromys lanatus (Olfers, 1818)",6.965215,-73.69269,Colombia,Santander,Barrancabermeja,,,Meza-Joya et al. (2020)
+HUMAN_OBSERVATION,Literature,,,"Caluromys lanatus (Olfers, 1818)",7.005567,-73.742751,Colombia,Santander,Barrancabermeja,,,Meza-Joya et al. (2020)
+MACHINE_OBSERVATION,Literature,,,"Caluromys lanatus (Olfers, 1818)",4.037334,-71.827892,Colombia,Meta,Puerto Gaitán,cuenca media Río Planas,,Aya-Cuervo et al. (2019)
+PHOTOGRAPHY,Citizen science,,,"Caluromys lanatus (Olfers, 1818)",3.077076,-73.696046,Colombia,Meta,San Martín,reserva natural El Caduceo,,Pablo A. Espinosa - Quintana
+PHOTOGRAPHY,Citizen science,,,"Caluromys lanatus (Olfers, 1818)",5.068367,-74.382658,Colombia,Cundinamarca,Nocaima,Cementerio,,Geovanny Alg
+PHOTOGRAPHY,Citizen science,,,"Caluromys lanatus (Olfers, 1818)",4.558912,-75.319815,Colombia,Tolima,Ibague,"Cañon del Combeima, Finca Agroturistica Dulima",,Ross Marulanda
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 41120,"Caluromys lanatus (Olfers, 1818)",6.935927029,-75.14034748,Colombia,Antioquia,Anorí,Porce III,,http://www.inaturalist.org/observations/41120
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 41149,"Caluromys lanatus (Olfers, 1818)",6.905295713,-75.12794495,Colombia,Antioquia,Amalfi,"Caracoli, Porce III",,http://www.inaturalist.org/observations/41149
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 450901,"Caluromys lanatus (Olfers, 1818)",4.612902,-74.312706,Colombia,Cundinamarca,Bojacá,San Antonio de Tena,,http://www.inaturalist.org/observations/450901
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 7395087,"Caluromys lanatus (Olfers, 1818)",4.048287681,-73.74047935,Colombia,Meta,Villavicencio, La ConcepciÃ³n,,https://www.inaturalist.org/observations/7395087
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 8019429,"Caluromys lanatus (Olfers, 1818)",9.176075737,-75.01224518,Colombia,Sucre,Galeras,El Placer,,https://www.inaturalist.org/observations/8019429
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 10303474,"Caluromys lanatus (Olfers, 1818)",9.175350216,-75.05335808,Colombia,Sucre,Galeras,,,https://www.inaturalist.org/observations/10303474
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 16337129,"Caluromys lanatus (Olfers, 1818)",6.31260394,-73.94968472,Colombia,Santander,Cimitarra,,,https://www.inaturalist.org/observations/16337129
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 17436459,"Caluromys lanatus (Olfers, 1818)",6.3101705,-73.9559776,Colombia,Santander,Cimitarra,Cl. 7a,,https://www.inaturalist.org/observations/17436459
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 17779682,"Caluromys lanatus (Olfers, 1818)",6.629719207,-73.59272291,Colombia,Santander,El Carmen de Chucurí,,,https://www.inaturalist.org/observations/17779682
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 18496259,"Caluromys lanatus (Olfers, 1818)",6.503679752,-74.81941986,Colombia,Antioquia,Maceo,Barbosa-Puerto BerrÍ­o,,https://www.inaturalist.org/observations/18496259
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 21064655,"Caluromys lanatus (Olfers, 1818)",4.396342,-75.0256902,Colombia,Tolima,Piedras,,,https://www.inaturalist.org/observations/21064655
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 25966203,"Caluromys lanatus (Olfers, 1818)",7.084126792,-73.11045138,Colombia,Santander,Bucaramanga,,,https://www.inaturalist.org/observations/25966203
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 28271387,"Caluromys lanatus (Olfers, 1818)",6.3070882,-73.9508718,Colombia,Santander,Cimitarra,,,https://www.inaturalist.org/observations/28271387
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 30110656,"Caluromys lanatus (Olfers, 1818)",6.311126,-73.9526978,Colombia,Santander,Cimitarra,,,https://www.inaturalist.org/observations/30110656
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 32836582,"Caluromys lanatus (Olfers, 1818)",6.816439244,-73.67859652,Colombia,Santander,San Vicente de Chucurí,,,https://www.inaturalist.org/observations/32836582
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 33240814,"Caluromys lanatus (Olfers, 1818)",6.336081982,-74.02086639,Colombia,Santander,Cimitarra,,,https://www.inaturalist.org/observations/33240814
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 33817569,"Caluromys lanatus (Olfers, 1818)",6.85423739,-73.72259302,Colombia,Santander,San Vicente de Chucurí,Yarima,,https://www.inaturalist.org/observations/33817569
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 34813376,"Caluromys lanatus (Olfers, 1818)",1.772057858,-76.18073295,Colombia,Huila,Pitalito,,,https://www.inaturalist.org/observations/34813376
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 35074213,"Caluromys lanatus (Olfers, 1818)",5.482556303,-72.36461089,Colombia,Boyacá,Paya,,,https://www.inaturalist.org/observations/35074213
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 35168734,"Caluromys lanatus (Olfers, 1818)",6.844203924,-73.71571899,Colombia,Santander,San Vicente de Chucurí,La Planada,,https://www.inaturalist.org/observations/35168734
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 36144326,"Caluromys lanatus (Olfers, 1818)",5.0903,-74.8612,Colombia,Tolima,Armero,,,https://www.inaturalist.org/observations/36144326
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 37434555,"Caluromys lanatus (Olfers, 1818)",6.807536952,-73.72213208,Colombia,Santander,San Vicente de Chucurí,,,https://www.inaturalist.org/observations/37434555
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 37860406,"Caluromys lanatus (Olfers, 1818)",6.613763,-75.171749,Colombia,Antioquia,Gómez Plata,,,https://www.inaturalist.org/observations/37860406
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 38072653,"Caluromys lanatus (Olfers, 1818)",6.251221225,-75.01330033,Colombia,Antioquia,San Carlos,,,https://www.inaturalist.org/observations/38072653
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 38545088,"Caluromys lanatus (Olfers, 1818)",6.826663756,-73.69863344,Colombia,Santander,San Vicente de Chucurí,Mirabel,,https://www.inaturalist.org/observations/38545088
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 38688026,"Caluromys lanatus (Olfers, 1818)",5.531851019,-74.15721025,Colombia,Boyacá,Muzo,Tres Esquinas,,https://www.inaturalist.org/observations/38688026
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 40253865,"Caluromys lanatus (Olfers, 1818)",6.827373993,-73.69990948,Colombia,Santander,San Vicente de Chucurí,Mirabel,,https://www.inaturalist.org/observations/40253865
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 42086805,"Caluromys lanatus (Olfers, 1818)",6.82586922,-73.6962,Colombia,Santander,San Vicente de Chucurí,,,https://www.inaturalist.org/observations/42086805
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 42520886,"Caluromys lanatus (Olfers, 1818)",1.632451615,-75.58326211,Colombia,Caquetá,Florencia,Reserva Natura comunitaria URUKI el Manantial.,,https://www.inaturalist.org/observations/42520886
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 42776754,"Caluromys lanatus (Olfers, 1818)",8.692753333,-75.41306667,Colombia,Córdoba,Sahagún,,,https://www.inaturalist.org/observations/42776754
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 48531252,"Caluromys lanatus (Olfers, 1818)",6.844481524,-73.71873544,Colombia,Santander,San Vicente de Chucurí,La Planada,,https://www.inaturalist.org/observations/48531252
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 53109162,"Caluromys lanatus (Olfers, 1818)",9.1175963,-74.9910112,Colombia,Sucre,Galeras,,,https://www.inaturalist.org/observations/53109162
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 66885360,"Caluromys lanatus (Olfers, 1818)",6.806498828,-73.67982009,Colombia,Santander,San Vicente de Chucurí,,,https://www.inaturalist.org/observations/66885360
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 67773576,"Caluromys lanatus (Olfers, 1818)",1.72062,-76.11891117,Colombia,Huila,Palestina,,,https://www.inaturalist.org/observations/67773576
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 69048066,"Caluromys lanatus (Olfers, 1818)",7.071228369,-73.07359301,Colombia,Santander,Floridablanca,,,https://www.inaturalist.org/observations/69048066
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 69422613,"Caluromys lanatus (Olfers, 1818)",4.287015342,-74.54227763,Colombia,Cundinamarca,Tibacuy,El Mango,,https://www.inaturalist.org/observations/69422613
+PHOTOGRAPHY,Citizen science,iNaturalist,"iNaturalist 71027126, iNaturalist 89587249","Caluromys lanatus (Olfers, 1818)",5.069456915,-74.380305,Colombia,Cundinamarca,Nocaima,,,https://www.inaturalist.org/observations/71027126
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 76981832,"Caluromys lanatus (Olfers, 1818)",6.820951992,-73.69249495,Colombia,Santander,San Vicente de Chucurí,,,https://www.inaturalist.org/observations/76981832
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 79349095,"Caluromys lanatus (Olfers, 1818)",7.070843892,-73.85918462,Colombia,Santander,Barrancabermeja,,,https://www.inaturalist.org/observations/79349095
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 82582796,"Caluromys lanatus (Olfers, 1818)",6.815550662,-73.6965789,Colombia,Santander,San Vicente de Chucurí,Argentina,,https://www.inaturalist.org/observations/82582796
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 84240315,"Caluromys lanatus (Olfers, 1818)",6.464255556,-74.28501111,Colombia,Santander,Cimitarra,,,https://www.inaturalist.org/observations/84240315
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 93040483,"Caluromys lanatus (Olfers, 1818)",6.834554635,-73.72134094,Colombia,Santander,San Vicente de Chucurí,,,https://www.inaturalist.org/observations/93040483
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 94960687,"Caluromys lanatus (Olfers, 1818)",8.305028333,-75.63572,Colombia,Córdoba,Planeta Rica,,,https://www.inaturalist.org/observations/94960687
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 95557785,"Caluromys lanatus (Olfers, 1818)",8.308151763,-75.63547757,Colombia,Córdoba,Planeta Rica,,,https://www.inaturalist.org/observations/95557785
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 95979752,"Caluromys lanatus (Olfers, 1818)",6.836003386,-73.71902351,Colombia,Santander,San Vicente de Chucurí,,,https://www.inaturalist.org/observations/95979752
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 96090015,"Caluromys lanatus (Olfers, 1818)",4.76652313,-74.46525089,Colombia,Cundinamarca,Anolaima,,,https://www.inaturalist.org/observations/96090015
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 96160727,"Caluromys lanatus (Olfers, 1818)",5.695858333,-75.23908611,Colombia,Antioquia,Sonsón,,,https://www.inaturalist.org/observations/96160727
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 99267557,"Caluromys lanatus (Olfers, 1818)",7.072055596,-73.10682267,Colombia,Santander,Floridablanca,,,https://www.inaturalist.org/observations/99267557
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 103734319,"Caluromys lanatus (Olfers, 1818)",7.929154491,-75.55597899,Colombia,Córdoba,San José de Uré,,,https://www.inaturalist.org/observations/103734319
+PHOTOGRAPHY,Citizen science,iNaturalist,iNaturalist 105103321,"Caluromys lanatus (Olfers, 1818)",6.052963333,-74.66481833,Colombia,Antioquia,Puerto Nare,Puerto Triunfo,,https://www.inaturalist.org/observations/105103321
+PHOTOGRAPHY,Citizen science,,,"Caluromys lanatus (Olfers, 1818)",2.494,-72.633194,Colombia,Guaviare,San José del Guaviare,Diamante de las Aguas,,Franklin Lozano
+PHOTOGRAPHY,Citizen science,iNaturalist,"iNaturalist 91679705, 127886355","Caluromys lanatus (Olfers, 1818)",7.921887,-75.548457,Colombia,Córdoba,Puerto Libertador,,,https://www.inaturalist.org/observations/91679705
+PHOTOGRAPHY,Fieldwork,,,"Caluromys lanatus (Olfers, 1818)",8.846389,-75.240556,Colombia,Sucre,La Unión,,,This study
+PHOTOGRAPHY,Citizen science,,,"Caluromys lanatus (Olfers, 1818)",4.143094,-73.58993,Colombia,Meta,Villavicencio,,,Franklin Lozano
+PHOTOGRAPHY,Citizen science,,,"Caluromys lanatus (Olfers, 1818)",10.883544,-74.155423,Colombia,Magdalena,El Banco,Guacamayal,,Jesús Castro Bohórquez
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 105643989,"Caluromys lanatus (Olfers, 1818)",-0.003574,-77.412753,Ecuador,Sucumbios,Gonzalo Pizarro,,,iNaturalist 105643989
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 95805078,"Caluromys lanatus (Olfers, 1818)",-3.560638,-78.459886,Ecuador,Zamora Chinchipe,El Pangui,,,iNaturalist 95805078
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 82277560,"Caluromys lanatus (Olfers, 1818)",-8.472363,-76.470517,Perú,San Martí­n,Tocache,,,iNaturalist 82277560
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 71397018,"Caluromys lanatus (Olfers, 1818)",-9.597581,-55.931312,Brazil,Mato Grosso,Novo Mundo,,,iNaturalist 71397018
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 70190929,"Caluromys lanatus (Olfers, 1818)",-12.521064,-68.980145,Perú,Madre de Dios,Tambopata,,,iNaturalist 70190929
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 69866814,"Caluromys lanatus (Olfers, 1818)",-0.96954,-77.764986,Ecuador,Napo,Tena,,,iNaturalist 69866814
+MATERIAL_SAMPLE,Database,"Smithsonian Institution, National Museum of Natural History",USNM 619112,"Caluromys lanatus (Olfers, 1818)",-11.7797,-73.3408,Perú,Cusco,La Convención,,,GBIF.org
+MATERIAL_SAMPLE,Database,"Smithsonian Institution, National Museum of Natural History",USNM 619085,"Caluromys lanatus (Olfers, 1818)",-3.9081,-78.4211,Perú,Amazonas,Condorcanqui,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 54233731,"Caluromys lanatus (Olfers, 1818)",-9.59683,-55.935026,Brazil,Mato Grosso,Alta Floresta,,,iNaturalist 54233731
+PRESERVED_SPECIMEN,Database,Coleção de Mamíferos do Museu de Zoologia da UNICAMP,UNICAMP 1509,"Caluromys lanatus (Olfers, 1818)",-21.72,-48.099722,Brazil,Sao Pablo,AMerico Brasiliense,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 64146900,"Caluromys lanatus (Olfers, 1818)",-15.847655,-47.769958,Brazil,Distrito Federal,Brasília,,,iNaturalist 64146900
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 66007787,"Caluromys lanatus (Olfers, 1818)",-12.836641,-69.293389,Perú,Madre de Dios,Tambopata,,,iNaturalist 66007787
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 44255100,"Caluromys lanatus (Olfers, 1818)",-3.702693,-61.460352,Brazil,Amazonas,Beruri,,,iNaturalist 44255100
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 48741308,"Caluromys lanatus (Olfers, 1818)",-0.397737,-76.996315,Ecuador,Orellana,Orellana,,,iNaturalist 48741308
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 47521740,"Caluromys lanatus (Olfers, 1818)",-15.794229,-47.882166,Brazil,Distrito Federal,Brasília,,,iNaturalist 47521740
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 25648405,"Caluromys lanatus (Olfers, 1818)",-12.812379,-65.616198,Bolivia,El Beni,Yacuma,,,iNaturalist 25648405
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 38878608,"Caluromys lanatus (Olfers, 1818)",-11.026145,-66.083942,Bolivia,El Beni,Vaca Diez,,,iNaturalist 38878608
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 38709314,"Caluromys lanatus (Olfers, 1818)",-11.027672,-66.086007,Bolivia,El Beni,Vaca Diez,,,iNaturalist 38709314
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 25993322,"Caluromys lanatus (Olfers, 1818)",-3.062525,-64.849664,Brazil,Amazonas,Uarini,,,iNaturalist 25993322
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 24942765,"Caluromys lanatus (Olfers, 1818)",-4.255175,-78.651082,Ecuador,Zamora Chinchipe,Nangaritza,,,iNaturalist 24942765
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 23364054,"Caluromys lanatus (Olfers, 1818)",-0.978406,-77.813197,Ecuador,Napo,Tena,,,iNaturalist 23364054
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 21145481,"Caluromys lanatus (Olfers, 1818)",-7.611887,-72.67991,Brazil,Amazonas,GuajarÃ¡,,,iNaturalist 21145481
+PRESERVED_SPECIMEN,Database,"University of Michigan Museum of Zoology, Division of Mammals",UMMZ 134007,"Caluromys lanatus (Olfers, 1818)",-24.45,-55.65,Paraguay,Canindeyú,Villa San Isidro Curuguaty,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"University of Michigan Museum of Zoology, Division of Mammals",UMMZ 160449,"Caluromys lanatus (Olfers, 1818)",-12.68333,-71.25,Perú,Madre de Dios,Manu,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 18501139,"Caluromys lanatus (Olfers, 1818)",-0.513082,-76.435316,Ecuador,Orellana,Orellana,,,iNaturalist 18501139
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 18196181,"Caluromys lanatus (Olfers, 1818)",-1.102535,-76.72039,Ecuador,Pastaza,Arajuno,,,iNaturalist 18196181
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 9099478,"Caluromys lanatus (Olfers, 1818)",-0.444183,-76.2808,Ecuador,Sucumbios,Shushufindi,,,iNaturalist 9099478
+FOSSIL_SPECIMEN,Database,ThePaleobiology Database,pbdb:occ:213048 ,"Caluromys lanatus (Olfers, 1818)",-11.9,-71.366699,Perú,Madre de Dios,Manu,,,GBIF.org
+FOSSIL_SPECIMEN,Database,ThePaleobiology Database,pbdb:occ:212937 ,"Caluromys lanatus (Olfers, 1818)",-2.5,-60,Brazil,Amazonas,Rio Preto da Eva,,,GBIF.org
+HUMAN_OBSERVATION,Citizen science,iNaturalist,iNaturalist 4305399,"Caluromys lanatus (Olfers, 1818)",-13.1,-69.6,Perú,Madre de Dios,Tambopata,,,iNaturalist 4305399
+PRESERVED_SPECIMEN,Database,"Smithsonian Institution, National Museum of Natural History","USNM 528318, 528319","Caluromys lanatus (Olfers, 1818)",-0.42,-76.07,Ecuador,Sucumbios,Shushufindi,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Smithsonian Institution, National Museum of Natural History",USNM 388331,"Caluromys lanatus (Olfers, 1818)",2.5,-65.22,Venezuela,Amazonas,Alto Orinoco,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Smithsonian Institution, National Museum of Natural History",USNM 406879,"Caluromys lanatus (Olfers, 1818)",5.4,-67.65,Venezuela,Amazonas,Atures,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Smithsonian Institution, National Museum of Natural History",USNM 560679,"Caluromys lanatus (Olfers, 1818)",0.83,-66.17,Venezuela,Amazonas,Río Negro,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Smithsonian Institution, National Museum of Natural History",USNM 371279-371280,"Caluromys lanatus (Olfers, 1818)",9.53,-70.67,Venezuela,Trujillo,Miranda,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Smithsonian Institution, National Museum of Natural History","USNM 388327, 388330","Caluromys lanatus (Olfers, 1818)",3.65,-65.77,Venezuela,Amazonas,Alto Orinoco,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Smithsonian Institution, National Museum of Natural History",USNM 418464,"Caluromys lanatus (Olfers, 1818)",9.18,-72.7,Venezuela,Zulia,Jesús Marí­a Semprun,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Smithsonian Institution, National Museum of Natural History",USNM 416932,"Caluromys lanatus (Olfers, 1818)",7.32,-71.95,Venezuela,Apure,Páez,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Smithsonian Institution, National Museum of Natural History",USNM 388332-388334,"Caluromys lanatus (Olfers, 1818)",2.43,-65.25,Venezuela,Amazonas,Alto Orinoco,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Smithsonian Institution, National Museum of Natural History",USNM 546177,"Caluromys lanatus (Olfers, 1818)",-9.08,-68.68,Brazil,Acre,Sena Madureira,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Smithsonian Institution, National Museum of Natural History","USNM 490227, 406875, 406878","Caluromys lanatus (Olfers, 1818)",5.3,-66.22,Venezuela,Amazonas,Manapiare,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Royal Ontario Museum,ROM 32449,"Caluromys lanatus (Olfers, 1818)",5.066667,-59.533333,Guyana,Potaro-Siparuni,Chenapau River,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley","MVZ:Mamm:198133, 197383","Caluromys lanatus (Olfers, 1818)",-12.641815,-51.932682,Brazil,Mato Grosso,Ribeirao Cascalheira,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley","MVZ:Mamm:193422, 190249","Caluromys lanatus (Olfers, 1818)",-8.666667,-72.783333,Brazil,Acre,Porto Walter,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley","MVZ:Mamm:190250, 190251, 191185, 193419, 193420, 193423-193426","Caluromys lanatus (Olfers, 1818)",-8.366667,-72.816667,Brazil,Acre,Porto Walter,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley",MVZ:Mamm:193432,"Caluromys lanatus (Olfers, 1818)",0.73683,-59.7027,Brazil,Roraima,Caroebe,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley",MVZ:Mamm:193431,"Caluromys lanatus (Olfers, 1818)",-6.466667,-68.766667,Brazil,Amazonas,Itamarati,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley",MVZ:Mamm:193428-193430,"Caluromys lanatus (Olfers, 1818)",-3.283333,-66.233333,Brazil,Amazonas,Juruí,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley",MVZ:Mamm:193421,"Caluromys lanatus (Olfers, 1818)",-8.6,-72.85,Brazil,Acre,Porto Walter,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley","MVZ:Mamm:190248, 193427","Caluromys lanatus (Olfers, 1818)",-6.58333,-68.93333,Brazil,Amazonas,Itamarati,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley",MVZ:Mamm:190247,"Caluromys lanatus (Olfers, 1818)",-6.75,-70.85,Brazil,Amazonas,Ipixuna,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley",MVZ:Mamm:168852,"Caluromys lanatus (Olfers, 1818)",-12.6,-69.07289,Perú,Madre de Dios,Tambopata,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley","MVZ:Mamm:157608, 157609, 157610, 157611, 157612","Caluromys lanatus (Olfers, 1818)",-4.022,-77.751,Perú,Amazonas,Condorcanqui,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley",MVZ:Mamm:153276,"Caluromys lanatus (Olfers, 1818)",-4.45563,-78.16123,Perú,Amazonas,Condorcanqui,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley",MVZ:Mamm:140041,"Caluromys lanatus (Olfers, 1818)",-9.3,-75.983333,Perú,Huánuco,Leoncio Prado,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley",MVZ:Mamm:121209,"Caluromys lanatus (Olfers, 1818)",-1.45,-48.48333,Brazil,Pará,Belém,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Southwestern Biology, Division of Mammals",MSB:Mamm:56998,"Caluromys lanatus (Olfers, 1818)",-12.38333,-68.58333,Bolivia,Pando,Manuripi,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Yale University Peabody Museum,"YPM MAM 000004, 000005, 000006, 000007","Caluromys lanatus (Olfers, 1818)",-1.0833,-77.95,Ecuador,Napo,Tena,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Yale University Peabody Museum,YPM MAM 003355,"Caluromys lanatus (Olfers, 1818)",-13.4,-70.7167,Perú,Cusco,Quispicanchi,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Yale University Peabody Museum,YPM MAM 000003,"Caluromys lanatus (Olfers, 1818)",-0.9833,-75.2333,Perú,Loreto,Maynas,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Michigan State University Mammalogy,MSU MR.11755,"Caluromys lanatus (Olfers, 1818)",0.084,-76.989,Ecuador,Sucumbios,Lago Agrio,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Mammals housed at MHNG, Geneva",MHNG-MAM-679.046,"Caluromys lanatus (Olfers, 1818)",8.55449,-71.00246,Venezuela,Merida,Santos Marquina,,,GBIF.org
+HUMAN_OBSERVATION,Database,"Administración de Parques Nacionales, Argentina","APN-AR APN-IG-277, 357, 2965, 2969, MACN 23632","Caluromys lanatus (Olfers, 1818)",-25.67875,-54.45043,Argentina,Misiones,Iguazú,,,GBIF.org
+HUMAN_OBSERVATION,Database,"Administración de Parques Nacionales, Argentina",APN-AR APN-IG-2912,"Caluromys lanatus (Olfers, 1818)",-25.69081,-54.47808,Argentina,Misiones,Iguazú,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 144058,"Caluromys lanatus (Olfers, 1818)",-12.6,-69.05449,Perú,Madre de Dios,Tambopata,,,GBIF.org
+PRESERVED_SPECIMEN,Database,University of Kansas mammal collection,KU 135119,"Caluromys lanatus (Olfers, 1818)",0.089,-76.869,Ecuador,Sucumbios,Lago Agrio,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museo Argentino de Ciencias Naturales ""Bernardino Rivadavia"" (MACN). Mammalogy National Collection (MACNMa)",MACN 20450,"Caluromys lanatus (Olfers, 1818)",-25.687287,-54.44638,Argentina,Misiones,Iguazú,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,"FMNH 114649, 114650","Caluromys lanatus (Olfers, 1818)",-13.066667,-64.816666,Bolivia,El Beni,Mamoré,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 58952,"Caluromys lanatus (Olfers, 1818)",-3.083333,-71.916664,Perú,Loreto,Mariscal Ramón Castilla,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,"FMNH 125414, 124595","Caluromys lanatus (Olfers, 1818)",-0.053333,-76.32222,Ecuador,Sucumbios,Cuyabeno,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 87134,"Caluromys lanatus (Olfers, 1818)",-4.833333,-74.216667,Perú,Loreto,Loreto,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 87129-87133,"Caluromys lanatus (Olfers, 1818)",-3.766667,-73.51667,Perú,Loreto,Maynas,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,"FMNH 43176, 43177","Caluromys lanatus (Olfers, 1818)",-1.533333,-77.949997,Ecuador,Pastaza,Pastaza,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 84245-84246,"Caluromys lanatus (Olfers, 1818)",-12.833333,-71.25,Perú,Madre de Dios,Manu,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 75087-75089,"Caluromys lanatus (Olfers, 1818)",-13.266666,-70.633331,Perú,Cusco,Quispicanchi,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 68333-68334,"Caluromys lanatus (Olfers, 1818)",-13.4,-70.716667,Perú,Cusco,Quispicanchi,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 65783,"Caluromys lanatus (Olfers, 1818)",-11.05,-75.316666,Perú,Junín,Chanchamayo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,"FMNH 55502, 62069, 62070","Caluromys lanatus (Olfers, 1818)",-8.3,-74.599998,Perú,Ucayali,Coronel Portillo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 55409,"Caluromys lanatus (Olfers, 1818)",-8.85,-74.73333,Perú,Huánuco,Puerto Inca,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,"FMNH 25265, 51885","Caluromys lanatus (Olfers, 1818)",-17.450001,-63.666668,Bolivia,Santa Cruz,Ichilo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,"FMNH 41444, 41445","Caluromys lanatus (Olfers, 1818)",-2.066667,-76.966667,Ecuador,Pastaza,Pastaza,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 24142,"Caluromys lanatus (Olfers, 1818)",-9.633333,-76.066666,Perú,Huánuco,Huenuco,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 20787,"Caluromys lanatus (Olfers, 1818)",-11.133333,-75.333336,Perú,Junín,Chanchamayo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 18189,"Caluromys lanatus (Olfers, 1818)",8.666667,-71,Venezuela,Merida,Santos Marquina,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 122749,"Caluromys lanatus (Olfers, 1818)",-3.30578,-74.622963,Perú,Loreto,Maynas,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University",MCZ 30529-30530,"Caluromys lanatus (Olfers, 1818)",-1.953973,-55.308481,Brazil,Pará,Óbidos,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University",MCZ 37966,"Caluromys lanatus (Olfers, 1818)",-1.084286,-77.889906,Ecuador,Napo,Tena,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University","MCZ 37854, 37855, 37856, 37857, 37858","Caluromys lanatus (Olfers, 1818)",-1.0783,-78.030529,Ecuador,Napo,Tena,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University","MCZ 27413, 27414","Caluromys lanatus (Olfers, 1818)",-0.427462,-76.570978,Ecuador,Orellana,Orellana,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Comparative Zoology, Harvard University",MCZ 34278,"Caluromys lanatus (Olfers, 1818)",-1.736509,-77.484768,Ecuador,Pastaza,Pastaza,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Administración de Parques Nacionales, Argentina",APN-AR-FHNFA CFA05820,"Caluromys lanatus (Olfers, 1818)",-26.37299,-54.17317,Argentina,Misiones,San Pedro,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Administración de Parques Nacionales, Argentina",APN-AR-FHNFA CFA04584,"Caluromys lanatus (Olfers, 1818)",-26.559,-54.79033,Argentina,Misiones,Montecarlo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museo Argentino de Ciencias Naturales ""Bernardino Rivadavia"" (MACN). Mammalogy National Collection (MACNMa)","MACN 24272, 21378-xx, APN-AR APN-IG-2968","Caluromys lanatus (Olfers, 1818)",-25.68029,-54.319289,Argentina,Misiones,Iguazú,,,GBIF.org
+HUMAN_OBSERVATION,Database,"Administración de Parques Nacionales, Argentina",APN-AR APN-IG-332,"Caluromys lanatus (Olfers, 1818)",-25.56213,-54.16776,Argentina,Misiones,General Manuel Belgrano,,,GBIF.org
+HUMAN_OBSERVATION,Database,"Administración de Parques Nacionales, Argentina",APN-AR APN-IG-232,"Caluromys lanatus (Olfers, 1818)",-25.68389,-54.44687,Argentina,Misiones,Iguazú,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museo Argentino de Ciencias Naturales ""Bernardino Rivadavia"" (MACN). Mammalogy National Collection (MACNMa)",MACN 21377-xx,"Caluromys lanatus (Olfers, 1818)",-25.618111,-54.573384,Argentina,Misiones,Iguazú,,,GBIF.org
+HUMAN_OBSERVATION,Database,Conservación Internacional,Conservation International 64574,"Caluromys lanatus (Olfers, 1818)",-12.658,-68.738,Perú,Madre de Dios,Tambopata,,,GBIF.org
+HUMAN_OBSERVATION,Database,Conservación Internacional,Conservation International 60018,"Caluromys lanatus (Olfers, 1818)",-12.865,-73.513,Perú,Cusco,La Convención,,,GBIF.org
+HUMAN_OBSERVATION,Database,Conservación Internacional,Conservation International 56026,"Caluromys lanatus (Olfers, 1818)",-11.78,-73.341,Perú,Cusco,La Convención,,,GBIF.org
+HUMAN_OBSERVATION,Database,Conservación Internacional,Conservation International 59788,"Caluromys lanatus (Olfers, 1818)",-12.517,-68.7,Perú,Madre de Dios,Tambopata,,,GBIF.org
+HUMAN_OBSERVATION,Database,Conservación Internacional,Conservation International 62237,"Caluromys lanatus (Olfers, 1818)",-12.838,-69.295,Perú,Madre de Dios,Tambopata,,,GBIF.org
+HUMAN_OBSERVATION,Database,Conservación Internacional,Conservation International 52004,"Caluromys lanatus (Olfers, 1818)",3.25,-59.25,Guyana,Upper Takutu-Upper Essequibo,Rest of Region 9,,,GBIF.org
+HUMAN_OBSERVATION,Database,Conservación Internacional,Conservation International 27175,"Caluromys lanatus (Olfers, 1818)",-3.917,-78.433,Perú,Amazonas,Condorcanqui,,,GBIF.org
+HUMAN_OBSERVATION,Database,Conservación Internacional,Conservation International 26962,"Caluromys lanatus (Olfers, 1818)",-10.667,-66.85,Bolivia,Pando,Federico Román,,,GBIF.org
+HUMAN_OBSERVATION,Database,Conservación Internacional,Conservation International 12801,"Caluromys lanatus (Olfers, 1818)",-4.283,-78.633,Ecuador,Zamora Chinchipe,Nangaritza,,,GBIF.org
+HUMAN_OBSERVATION,Database,Conservación Internacional,Conservation International 6387,"Caluromys lanatus (Olfers, 1818)",-10.767,-66.733,Bolivia,Pando,Federico Román,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Louisiana State University Museum of Natural Science,LSUMZ 28420,"Caluromys lanatus (Olfers, 1818)",-6.353,-76.3,Perú,San Martí­n,Lamas,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Louisiana State University Museum of Natural Science,"LSUMZ 21880, 21881","Caluromys lanatus (Olfers, 1818)",-5.635,-78.531,Perú,Amazonas,Bagua,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Louisiana State University Museum of Natural Science,"LSUMZ 14025, 16400","Caluromys lanatus (Olfers, 1818)",-10.133,-71.217,Perú,Ucayali,Purús,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Louisiana State University Museum of Natural Science,"LSUMZ 14023, 14024","Caluromys lanatus (Olfers, 1818)",-8.25,-74.717,Perú,Ucayali,Coronel Portillo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Louisiana State University Museum of Natural Science,LSUMZ 8892,"Caluromys lanatus (Olfers, 1818)",-8.383,-74.533,Perú,Ucayali,Coronel Portillo,,,GBIF.org
+PRESERVED_SPECIMEN,Database,Instituto de Ciencias Naturales de la Universidad Nacional de Colombia,ICN 11632,"Caluromys lanatus (Olfers, 1818)",2.97618,-73.6742,Colombia,Meta,Vistahermosa,"Meta, Municipio de Vistahermosa.",,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,FMNH 140237,"Caluromys lanatus (Olfers, 1818)",8,-73,Colombia,Norte de Santander,,Sarcuta,,GBIF.org
+PRESERVED_SPECIMEN,Database,Field Museum of Natural History,,"Caluromys lanatus (Olfers, 1818)",7.8805,-72.50179,Colombia,Norte de Santander,,Sarcuta,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley",MVZ:Mamm:193427,"Caluromys lanatus (Olfers, 1818)",-6.58333,-68.9,Brazil,Amazonas,Itamarati,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Museum of Vertebrate Zoology, University of California, Berkeley",MVZ:Mamm:193428,"Caluromys lanatus (Olfers, 1818)",-3.31667,-66,Brazil,Amazonas,Juruí,,,GBIF.org
+PRESERVED_SPECIMEN,Database,"Administración de Parques Nacionales, Argentina",APN-AR APN-IG-2969,"Caluromys lanatus (Olfers, 1818)",-25.67939,-54.44575,Argentina,Iguazú,,,,GBIF.org
