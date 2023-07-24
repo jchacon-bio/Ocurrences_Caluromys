@@ -5,7 +5,7 @@ Supplementary material of the article:
 This repository shares the occurrence records used for the construction of the distribution models of the species <i/>Caluromys derbianus</i> and <i/>Caluromys lanatus</i>, and the dubious records for Colombia of <i/>Caluromys philander</i> for the generation of the manuscript:
 
 
-**New potential distribution of woolly opossum, genus <i/>Caluromys<i/> (Didelphimorphia: Didelphidae), in Colombia**.
+**New potential distribution of woolly opossum, genus <i/>Caluromys</i> (Didelphimorphia: Didelphidae), in Colombia**.
 
 Julio Chacón-Pacheco1,2*, Jairo Pérez-Torres2, Javier Racero-Casarrubia1, Luis Camilo Ramos Madera1, Duván J. Bassa-Hernández1, and Gerson Salcedo-Rivera3 
 
